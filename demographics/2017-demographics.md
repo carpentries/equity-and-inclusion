@@ -19,6 +19,18 @@ __Software Carpentry__: 5,732 Total Pre-Workshop Survey Respondents
   - Prefer not to say: 41
   - Other: 9
   - Blank:43
+- __Current Position__:
+  - Commercial software developer: 15
+  - Faculty: 185
+  - Undergraduate Student: 251
+  - Graduate student: 1038
+  - Librarian/Archivist: 77
+  - Post-Doctoral Researcher: 423
+  - Research staff (including research programmer): 390
+  - Support staff (including technical support): 93
+  - Other: 148
+  - Blank: 39
+
 
 __Data Carpentry__
 
