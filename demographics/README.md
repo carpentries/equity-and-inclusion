@@ -1,2 +1,4 @@
 # About
-This folder contains demographics of who we are reaching.
+This folder contains demographics* for who we are reaching.
+
+*Taken from SurveyMonkey for attendees who completed our pre-workshop surveys.
