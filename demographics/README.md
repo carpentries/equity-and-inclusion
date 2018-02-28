@@ -9,6 +9,7 @@ All figures were created using data from SurveyMonkey for attendees who complete
 + [2018 Demographics](https://carpentries.github.io/equity-and-inclusion/demographics/software-carpentry/2018/2018-demographics.html)
 
 # Data Carpentry
++ [2017 Demographics](https://carpentries.github.io/equity-and-inclusion/demographics/data-carpentry/2017/2017-demographics.html)
 
 # Library Carpentry
 
