@@ -58,7 +58,7 @@ sum(idx)
 }
 ```
 
-The following includes demographic data for those individuals who took Data Carpentry's [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_presurvey.pdf) in 2017. There were a total x learners who completed this survey in 2017.
+The following includes demographic data for those individuals who took Data Carpentry's [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_presurvey.pdf) in 2017. There were a total 991 learners who completed this survey in 2017.
 
 # Domain
 
@@ -150,18 +150,16 @@ ggplot(position_percent,
   theme_classic(base_size = 14)
 ```
 
+# Exposure to Data Carpentry
 
-
-# Exposure to Software Carpentry
-
-__How did you hear about Software Carpentry? Check all that apply.__
+__How did you find out about this workshop? Check all that apply.__
 
 ```{r}
 # How did you hear about Software Carpentry? Check all that apply.
-# Responses are in columns 'Exposure' through 'Column21'
+# Responses are in columns 'Exposure' through 'Column35'
 exposure <-
  dc_pre_2017 %>%
- select(`Exposure`:Column21) %>%
+ select(`Exposure`:Column35) %>%
  gather(col, exposure) %>%
  group_by(exposure) %>%
  tally() %>%
@@ -173,17 +171,14 @@ exposure <-
 kable(exposure)
 ```
 
+# Gender Identity (U.S. Data Only)
+Per various international laws, we are only allowed to collect gender identity information for learners attending workshops in the United States.
 
-
-
-
-# Gender Identity
-
-__What is your gender?__
+__With what gender do you most identify?__
 
 ```{r gender}
 # What is your gender?
-gender = c("Female", "Male", "Other", "Prefer not to say")
+gender = c("Female", "Male", "Transgender female", "Transgender male", "Gender variant/non-conforming", "Prefer not to answer", "Not listed (please specify)")
 gender = factor(gender)
 
 dc_pre_2017$`Gender` = factor(dc_pre_2017$`Gender`, levels = gender)
@@ -214,9 +209,9 @@ scale_x_discrete(labels = function(x) lapply(strwrap(x,
                                                  paste,
                                                  collapse = "\n")) +
     theme_classic() +
-    xlab("Gender") +
+    xlab("Gender Identity") +
     ylab("% respondents") +
-    ggtitle("2017 Breakdown of Respondents by Gender") +
+    ggtitle("2017 Breakdown of Respondents by Gender Identity") +
     theme(plot.title = element_text(hjust = 0.5)) +
     theme_classic(base_size = 14)
 ```
@@ -228,47 +223,55 @@ Per various international laws, we are only allowed to collect race/ethnicity in
 __Which race/ethnicity best describes you? (Please choose only one.)__
 ```{r race_ethnicity_US}
 # Which race/ethnicity best describes you? (Please choose only one.)
-  race = c("American Indian or Alaskan Native", 
-           "Asian / Pacific Islander", 
+# Responses are in columns 'Race-Ethnicity' through 'Column48'
+  race = c("American Indian or Alaska Native", 
+           "Asian", 
            "Black or African American", 
-           "Hispanic or Latino", 
+           "Hispanic or Latino(a)", 
            "Native Hawaiian or Other Pacific Islander", 
-           "White / Caucasian", 
-           "Prefer not to say") 
+           "White", 
+           "I prefer not to say.",
+           "Other (please specify") 
   race = factor(race)
+  
+n_responses_to_race_question <-
+  n_responses_to_the_question(dc_pre_2017,
+                              from_colname = `Race-Ethnicity`,
+                              to_colname = Column48)  
 
-dc_pre_2017$`Race-Ethnicity` = factor(dc_pre_2017$`Race-Ethnicity`, levels = race)
+race_percent <-
+  dc_pre_2017 %>%
+  select(`Race-Ethnicity`:Column48) %>%
+  gather(col, race_percent) %>%
+  group_by(race_percent) %>%
+  tally_and_perc(race_percent,
+                 na.rm = TRUE,
+                 question_n = n_responses_to_race_question) %>%
+  filter(!is.na(race_percent)) %>%
+  arrange(desc(n)) %>%
+  rename(`Race-Ethnicity` = race_percent)
 
-  race_tally <-
-   dc_pre_2017 %>%
-   group_by(`Race-Ethnicity`) %>%
-   tally() %>%
-   filter(!is.na(`Race-Ethnicity`)) %>%
-   mutate(perc = round(n/sum(n) * 100, 0)) %>%
-   arrange(desc(n))
+kable(race_percent,
+      format = "markdown",
+      digits = getOption("digits"),
+      row.names = NA,
+      col.names = NA,
+    caption = NULL,
+    escape = TRUE)
 
- kable(race_tally)
-
-dc_pre_2017 %>%
-  select(`Race-Ethnicity`) %>%
-  group_by(`Race-Ethnicity`) %>%
-  tally() %>%
-  filter(!is.na(`Race-Ethnicity`)) %>%
-  mutate(`Race-Ethnicity` = factor(`Race-Ethnicity`, levels = race)) %>%
-
-ggplot(aes(x = `Race-Ethnicity`, y = 100 * (n/sum(n)))) +
-geom_bar(stat = "identity", position = "dodge", fill = "maroon", na.rm = TRUE ) +
-geom_text(aes(label=n), size= 4, vjust=-0.25) + # Adds count to top of bar
-scale_x_discrete(labels = function(x) lapply(strwrap(x,
-                                                         width = 10,
-                                                         simplify = FALSE),
-                                                 paste,
-                                                 collapse = "\n")) +
-    theme_classic() +
-    xlab("Race/Ethnicity") +
-    ylab("% respondents") +
-    ggtitle("2017 Breakdown of U.S. Respondents by Race/Ethnicity") +
-    theme(plot.title = element_text(hjust = 0.5)) +
-    theme_classic(base_size = 14)
+ggplot(race_percent,
+       aes(`Race-Ethnicity`, y = 100 * (n/sum(n)),
+           n)) +
+  geom_bar(stat = "identity", fill="maroon") +
+  geom_text(aes(label=n), size= 4, vjust=-0.25) +
+  scale_x_discrete(labels = function(x) lapply(strwrap(x, width = 10, simplify = FALSE), paste, collapse="\n")) +
+  theme_classic() +
+  xlab("Respondents' Racial/Ethnic Identity") +
+  ylab("% Respondents") +
+  ggtitle("2017 Breakdown of Respondents by Racial/Ethnic Identity") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme_classic(base_size = 14)
   
 ```
+
+
