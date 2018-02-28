@@ -14,13 +14,13 @@ opts_chunk$set(fig.path='figures/2017_learners_') #puts all figures in figures f
 
 
 ```{r include=FALSE}
-# Loading dataset for the 2017 pre-workshop survey demographics for Software Carpentry
+# Loading dataset for the 2017 pre-workshop survey demographics for Data Carpentry
 dc_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/demographics/data-carpentry/2017/2017-pre-demographics.csv")
 ```
 
 ```{r}
 # Function that makes a table of counts and percentages
-# question_n is set by default to the number of respondents in the survey (5707). 
+# question_n is set by default to the number of respondents in the survey. 
 # This value may have to be set by question.
 question_n <- nrow(dc_pre_2017)
 
@@ -58,28 +58,40 @@ sum(idx)
 }
 ```
 
-The following includes demographic data for those individuals who took Software Carpentry's [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_presurvey.pdf) in 2017. There were a total 5707 learners who completed this survey in 2017.
+The following includes demographic data for those individuals who took Data Carpentry's [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_presurvey.pdf) in 2017. There were a total x learners who completed this survey in 2017.
 
-# First-Time Learners
+# Domain
 
-__Will this be your first time attending a Software Carpentry workshop (as a learner)?__
+__Please indicate your relevant fields or disciplines. Check all that apply.__
+
 ```{r}
-# Will this be your first time attending a Software Carpentry workshop (as a learner)?
-first_time = c("Yes", "No")
-first_time = factor(first_time)
+# Please indicate your relevant fields or disciplines. Check all that apply.
+# Responses are in columns 'Domain' through 'Column13'
 
-dc_pre_2017$`First-Workshop` = factor(dc_pre_2017$`First-Workshop`, levels = first_time)
+n_responses_to_domain_question <-
+  n_responses_to_the_question(dc_pre_2017,
+                              from_colname = Domain,
+                              to_colname = Column13)
 
-first_time_tally <-
+domain_percent <-
   dc_pre_2017 %>%
-  group_by(`First-Workshop`) %>%
-  tally() %>%
-  filter(!is.na(`First-Workshop`)) %>%
-  mutate(perc = round(n/sum(n) * 100, 0)) %>%
-  arrange(desc(n))
+  select(Domain:Column13) %>%
+  gather(col, domain_percent) %>%
+  group_by(domain_percent) %>%
+  tally_and_perc(domain_percent,
+                 na.rm = TRUE,
+                 question_n = n_responses_to_domain_question) %>%
+  filter(!is.na(domain_percent)) %>%
+  arrange(desc(n)) %>%
+  rename(Domain = domain_percent)
 
-kable(first_time_tally)
-# Come back and figure out how to change the column header.
+kable(domain_percent,
+      format = "markdown",
+      digits = getOption("digits"),
+      row.names = NA,
+      col.names = NA,
+    caption = NULL,
+    escape = TRUE)
 ```
 
 # Exposure to Software Carpentry
@@ -135,39 +147,7 @@ ggplot(position_tally,
   theme_classic(base_size = 14)
 ```
 
-# Domain
 
-__What is your domain of research/study?__
-
-```{r}
-# What is your domain of research/study?
-# Responses are in columns 'Domain' through 'Column61'
-
-n_responses_to_domain_question <-
-  n_responses_to_the_question(dc_pre_2017,
-                              from_colname = Domain,
-                              to_colname = Column61)
-
-domain_percent <-
-  dc_pre_2017 %>%
-  select(Domain:Column61) %>%
-  gather(col, domain_percent) %>%
-  group_by(domain_percent) %>%
-  tally_and_perc(domain_percent,
-                 na.rm = TRUE,
-                 question_n = n_responses_to_domain_question) %>%
-  filter(!is.na(domain_percent)) %>%
-  arrange(desc(n)) %>%
-  rename(Domain = domain_percent)
-
-kable(domain_percent,
-      format = "markdown",
-      digits = getOption("digits"),
-      row.names = NA,
-      col.names = NA,
-    caption = NULL,
-    escape = TRUE)
-```
 
 # Gender Identity
 
