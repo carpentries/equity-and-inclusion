@@ -93,6 +93,64 @@ kable(domain_percent,
     caption = NULL,
     escape = TRUE)
 ```
+# Position
+
+__What is your current position?__
+
+```{r position}
+# What is your current position?
+# Responses are in columns 'Position' through 'Column22'
+position = c("Undergraduate Student", "Graduate Student", "Postdoctoral Researcher", "Faculty", "Industry Employee", "Government Employee", "Research Staff", "Management/Administrator", "Retired/Not Employed", "Other (please specify)")
+position = factor(position)
+
+n_responses_to_position_question <-
+  n_responses_to_the_question(dc_pre_2017,
+                              from_colname = Position,
+                              to_colname = Column22)
+position_tally <-
+  dc_pre_2017 %>%
+  group_by(Position) %>%
+  tally() %>%
+  filter(!is.na(Position)) %>%
+  mutate(perc = round(n/sum(n) * 100, 0))
+
+position_percent <-
+  dc_pre_2017 %>%
+  select(Position:Column22) %>%
+  gather(col, position_percent) %>%
+  group_by(position_percent) %>%
+  tally_and_perc(position_percent,
+                 na.rm = TRUE,
+                 question_n = n_responses_to_position_question) %>%
+  filter(!is.na(position_percent)) %>%
+  arrange(desc(n)) %>%
+  rename(Position = position_percent)
+
+kable(position_percent,
+      format = "markdown",
+      digits = getOption("digits"),
+      row.names = NA,
+      col.names = NA,
+    caption = NULL,
+    escape = TRUE)
+
+dc_pre_2017$`Position` = factor(dc_pre_2017$`Position`, levels = position)
+
+ggplot(position_percent,
+       aes(Position, y = 100 * (n/sum(n)),
+           n)) +
+  geom_bar(stat = "identity", fill="maroon") +
+  geom_text(aes(label=n), size= 4, vjust=-0.25) +
+  scale_x_discrete(labels = function(x) lapply(strwrap(x, width = 10, simplify = FALSE), paste, collapse="\n")) +
+  theme_classic() +
+  xlab("Respondents' Position") +
+  ylab("% Respondents") +
+  ggtitle("2017 Breakdown of Respondents by Position") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme_classic(base_size = 14)
+```
+
+
 
 # Exposure to Software Carpentry
 
@@ -115,37 +173,7 @@ exposure <-
 kable(exposure)
 ```
 
-# Position
 
-__What is your current position?__
-
-```{r position}
-# What is your current position?
-position = c("Undergraduate Student", "Graduate Student", "Post-doctoral researcher", "Faculty", "Research staff (including research programmer)", "Support staff (including technical support)", "Librarian/archivist", "Commercial software developer", "Other (please specify)")
-position = factor(position)
-
-dc_pre_2017$`Position` = factor(dc_pre_2017$`Position`, levels = position)
-
-position_tally <-
-  dc_pre_2017 %>%
-  group_by(Position) %>%
-  tally() %>%
-  filter(!is.na(Position)) %>%
-  mutate(perc = round(n/sum(n) * 100, 0))
-
-ggplot(position_tally,
-       aes(Position, y = 100 * (n/sum(n)),
-           n)) +
-  geom_bar(stat = "identity", fill="maroon") +
-  geom_text(aes(label=n), size= 4, vjust=-0.25) +
-  scale_x_discrete(labels = function(x) lapply(strwrap(x, width = 10, simplify = FALSE), paste, collapse="\n")) +
-  theme_classic() +
-  xlab("Respondents' Position") +
-  ylab("% Respondents") +
-  ggtitle("2017 Breakdown of Respondents by Position") +
-  theme(plot.title = element_text(hjust = 0.5)) +
-  theme_classic(base_size = 14)
-```
 
 
 
