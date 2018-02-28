@@ -15,14 +15,14 @@ opts_chunk$set(fig.path='figures/2017_learners_') #puts all figures in figures f
 
 ```{r include=FALSE}
 # Loading dataset for the 2017 pre-workshop survey demographics for Software Carpentry
-swc_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/demographics/2017/2017-swc-pre-demographics.csv")
+dc_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/demographics/data-carpentry/2017/2017-pre-demographics.csv")
 ```
 
 ```{r}
 # Function that makes a table of counts and percentages
 # question_n is set by default to the number of respondents in the survey (5707). 
 # This value may have to be set by question.
-question_n <- nrow(swc_pre_2017)
+question_n <- nrow(dc_pre_2017)
 
 tally_and_perc <- function(df, colname, na.rm = FALSE, question_n){
   quo_colname <- enquo(colname)
@@ -58,7 +58,7 @@ sum(idx)
 }
 ```
 
-The following includes demographic data for those individuals who took Software Carpentry's [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/swc_presurvey.pdf) in 2017. There were a total 5707 learners who completed this survey in 2017.
+The following includes demographic data for those individuals who took Software Carpentry's [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_presurvey.pdf) in 2017. There were a total 5707 learners who completed this survey in 2017.
 
 # First-Time Learners
 
@@ -68,10 +68,10 @@ __Will this be your first time attending a Software Carpentry workshop (as a lea
 first_time = c("Yes", "No")
 first_time = factor(first_time)
 
-swc_pre_2017$`First-Workshop` = factor(swc_pre_2017$`First-Workshop`, levels = first_time)
+dc_pre_2017$`First-Workshop` = factor(dc_pre_2017$`First-Workshop`, levels = first_time)
 
 first_time_tally <-
-  swc_pre_2017 %>%
+  dc_pre_2017 %>%
   group_by(`First-Workshop`) %>%
   tally() %>%
   filter(!is.na(`First-Workshop`)) %>%
@@ -90,7 +90,7 @@ __How did you hear about Software Carpentry? Check all that apply.__
 # How did you hear about Software Carpentry? Check all that apply.
 # Responses are in columns 'Exposure' through 'Column21'
 exposure <-
- swc_pre_2017 %>%
+ dc_pre_2017 %>%
  select(`Exposure`:Column21) %>%
  gather(col, exposure) %>%
  group_by(exposure) %>%
@@ -112,10 +112,10 @@ __What is your current position?__
 position = c("Undergraduate Student", "Graduate Student", "Post-doctoral researcher", "Faculty", "Research staff (including research programmer)", "Support staff (including technical support)", "Librarian/archivist", "Commercial software developer", "Other (please specify)")
 position = factor(position)
 
-swc_pre_2017$`Position` = factor(swc_pre_2017$`Position`, levels = position)
+dc_pre_2017$`Position` = factor(dc_pre_2017$`Position`, levels = position)
 
 position_tally <-
-  swc_pre_2017 %>%
+  dc_pre_2017 %>%
   group_by(Position) %>%
   tally() %>%
   filter(!is.na(Position)) %>%
@@ -144,12 +144,12 @@ __What is your domain of research/study?__
 # Responses are in columns 'Domain' through 'Column61'
 
 n_responses_to_domain_question <-
-  n_responses_to_the_question(swc_pre_2017,
+  n_responses_to_the_question(dc_pre_2017,
                               from_colname = Domain,
                               to_colname = Column61)
 
 domain_percent <-
-  swc_pre_2017 %>%
+  dc_pre_2017 %>%
   select(Domain:Column61) %>%
   gather(col, domain_percent) %>%
   group_by(domain_percent) %>%
@@ -178,10 +178,10 @@ __What is your gender?__
 gender = c("Female", "Male", "Other", "Prefer not to say")
 gender = factor(gender)
 
-swc_pre_2017$`Gender` = factor(swc_pre_2017$`Gender`, levels = gender)
+dc_pre_2017$`Gender` = factor(dc_pre_2017$`Gender`, levels = gender)
 
 gender_test_tally <-
-  swc_pre_2017 %>%
+  dc_pre_2017 %>%
   group_by(`Gender`) %>%
   tally() %>%
   filter(!is.na(`Gender`)) %>%
@@ -190,7 +190,7 @@ gender_test_tally <-
 
 kable(gender_test_tally)
 
-swc_pre_2017 %>%
+dc_pre_2017 %>%
   select(`Gender`) %>%
   group_by(`Gender`) %>%
   tally() %>%
@@ -229,10 +229,10 @@ __Which race/ethnicity best describes you? (Please choose only one.)__
            "Prefer not to say") 
   race = factor(race)
 
-swc_pre_2017$`Race-Ethnicity` = factor(swc_pre_2017$`Race-Ethnicity`, levels = race)
+dc_pre_2017$`Race-Ethnicity` = factor(dc_pre_2017$`Race-Ethnicity`, levels = race)
 
   race_tally <-
-   swc_pre_2017 %>%
+   dc_pre_2017 %>%
    group_by(`Race-Ethnicity`) %>%
    tally() %>%
    filter(!is.na(`Race-Ethnicity`)) %>%
@@ -241,7 +241,7 @@ swc_pre_2017$`Race-Ethnicity` = factor(swc_pre_2017$`Race-Ethnicity`, levels = r
 
  kable(race_tally)
 
-swc_pre_2017 %>%
+dc_pre_2017 %>%
   select(`Race-Ethnicity`) %>%
   group_by(`Race-Ethnicity`) %>%
   tally() %>%
