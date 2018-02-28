@@ -1,5 +1,5 @@
 # About
-This folder contains demographics for who we are reaching in our global workshops. We collect information for learner status/position, field of research/work, gender identity, and racial/ethnic identity.
+This folder contains demographics for who we are reaching in our global workshops. We collect information for learner status/position and field of research/work globally. Additionally, we collect data for gender identity and racial/ethnic identity for U.S. workshop participants.
 
 All figures were created using data from SurveyMonkey for attendees who completed our pre-workshop surveys.
 
