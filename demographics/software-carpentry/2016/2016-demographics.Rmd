@@ -20,7 +20,7 @@ swc_pre_2016 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/e
 
 ```{r}
 # Function that makes a table of counts and percentages
-# question_n is set by default to the number of respondents in the survey (5707). 
+# question_n is set by default to the number of respondents in the survey. 
 # This value may have to be set by question.
 question_n <- nrow(swc_pre_2016)
 
