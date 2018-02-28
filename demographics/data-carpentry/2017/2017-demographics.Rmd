@@ -16,6 +16,8 @@ opts_chunk$set(fig.path='figures/2017_learners_') #puts all figures in figures f
 ```{r include=FALSE}
 # Loading dataset for the 2017 pre-workshop survey demographics for Data Carpentry
 dc_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/demographics/data-carpentry/2017/2017-pre-demographics.csv")
+
+dc_archived_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/demographics/data-carpentry/2017/2017-archived-pre-demographics.csv")
 ```
 
 ```{r}
