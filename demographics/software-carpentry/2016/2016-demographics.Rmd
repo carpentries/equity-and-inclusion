@@ -180,7 +180,7 @@ gender = factor(gender)
 
 swc_pre_2016$`Gender` = factor(swc_pre_2016$`Gender`, levels = gender)
 
-gender_test_tally <-
+gender_tally <-
   swc_pre_2016 %>%
   group_by(`Gender`) %>%
   tally() %>%
@@ -188,7 +188,7 @@ gender_test_tally <-
   mutate(perc = round(n/sum(n) * 100, 0)) %>%
   arrange(desc(n))
 
-kable(gender_test_tally)
+kable(gender_tally)
 
 swc_pre_2016 %>%
   select(`Gender`) %>%
