@@ -16,9 +16,233 @@ opts_chunk$set(fig.path='figures/2017_learners_') #puts all figures in figures f
 ```{r include=FALSE}
 # Loading dataset for the 2017 pre-workshop survey demographics for Data Carpentry
 dc_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/demographics/data-carpentry/2017/2017-pre-demographics.csv")
+```
 
+```{r include=FALSE}
+# Loading dataset for the 2017 archived pre-workshop survey demographics for Data Carpentry
 dc_archived_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/demographics/data-carpentry/2017/2017-archived-pre-demographics.csv")
 ```
+
+```{r}
+# Function that makes a table of counts and percentages
+# question_n is set by default to the number of respondents in the survey. 
+# This value may have to be set by question.
+question_n <- nrow(dc_archived_pre_2017)
+
+tally_and_perc <- function(df, colname, na.rm = FALSE, question_n){
+  quo_colname <- enquo(colname)
+
+  df %>%
+    group_by(!!quo_colname) %>%
+    tally() %>%
+    filter(if_else(rep(na.rm, nrow(.)),
+                  !is.na(!!quo_colname),
+                  as.logical(rep(1, nrow(.))))) %>%
+    mutate(`%` = round(n / question_n * 100, 1))
+}
+
+# function to compute number of non-NA responses to a question
+
+n_responses_to_the_question <- function(df, from_colname, to_colname) {
+
+  quo_from_colname <- enquo(from_colname)
+  quo_to_colname <- enquo(to_colname)
+
+  rowsums <-
+df %>%
+  select(UQ(quo_from_colname):UQ(quo_to_colname)) %>%
+  # check that each row has a value for at least one column
+  # convert to numeric, if NA, then put a zero, otherwise 1
+  map_df(., ~ifelse(is.na(.x), 0, 1)) %>%
+  # sum to see if any rows have no reponses
+  rowSums()
+
+# for all behaviors
+idx <- ifelse(rowsums == 0, FALSE, TRUE)
+sum(idx)
+}
+```
+
+The following includes demographic data for those individuals who took Data Carpentry's archived [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_postsurvey_archived.pdf) in 2017. There were a total 1070 learners who completed this survey in 2017.
+
+# First-Time Learners
+
+__Is this your first time in a Data Carpentry workshop as a learner?__
+```{r}
+# Will this be your first time attending a Software Carpentry workshop (as a learner)?
+first_time = c("Yes", "No")
+first_time = factor(first_time)
+
+dc_archived_pre_2017$`First-Time` = factor(dc_archived_pre_2017$`First-Time`, levels = first_time)
+
+first_time_tally <-
+  dc_archived_pre_2017 %>%
+  group_by(`First-Time`) %>%
+  tally() %>%
+  filter(!is.na(`First-Time`)) %>%
+  mutate(perc = round(n/sum(n) * 100, 0)) %>%
+  arrange(desc(n))
+
+kable(first_time_tally)
+# Come back and figure out how to change the column header.
+```
+# Position
+
+__Which of the following describes your current status?__
+
+```{r position_archived_survey}
+# What is your current position?
+position = c("Undergraduate student", "Graduate student", "Post-doc", "Faculty", "Industry", "Staff", "Other (please specify)")
+position = factor(position)
+
+dc_archived_pre_2017$`Position` = factor(dc_archived_pre_2017$`Position`, levels = position)
+
+position_tally <-
+  dc_archived_pre_2017 %>%
+  group_by(Position) %>%
+  tally() %>%
+  filter(!is.na(Position)) %>%
+  mutate(perc = round(n/sum(n) * 100, 0))
+
+ggplot(position_tally,
+       aes(Position, y = 100 * (n/sum(n)),
+           n)) +
+  geom_bar(stat = "identity", fill="maroon") +
+  geom_text(aes(label=n), size= 4, vjust=-0.25) +
+  scale_x_discrete(labels = function(x) lapply(strwrap(x, width = 10, simplify = FALSE), paste, collapse="\n")) +
+  theme_classic() +
+  xlab("Respondents' Position") +
+  ylab("% Respondents") +
+  ggtitle("2017 Breakdown of Respondents by Position (Archived Survey)") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  theme_classic(base_size = 14)
+```
+# Domain
+
+__What is your domain of research/study?__
+
+```{r}
+# What is your domain of research/study?
+domain_archived_tally <-
+  dc_archived_pre_2017 %>%
+  group_by(`Domain`) %>%
+  tally() %>%
+  filter(!is.na(`Domain`)) %>%
+  mutate(perc = round(n/sum(n) * 100, 0)) %>%
+  arrange(desc(n))
+
+kable(domain_archived_tally)
+```
+```{r}
+# What is your domain of research/study?
+domain_archived_other_tally <-
+  dc_archived_pre_2017 %>%
+  group_by(`Domain-Other`) %>%
+  tally() %>%
+  filter(!is.na(`Domain-Other`)) %>%
+  mutate(perc = round(n/sum(n) * 100, 0)) %>%
+  arrange(desc(n))
+
+kable(domain_archived_other_tally)
+```
+
+# Gender Identity (U.S. Data Only)
+
+__What is your gender?__
+
+```{r gender_archived_survey}
+# What is your gender?
+gender = c("Female", "Male", "Prefer not to say")
+gender = factor(gender)
+
+dc_archived_pre_2017$`Gender` = factor(dc_archived_pre_2017$`Gender`, levels = gender)
+
+gender_archived_tally <-
+  dc_archived_pre_2017 %>%
+  group_by(`Gender`) %>%
+  tally() %>%
+  filter(!is.na(`Gender`)) %>%
+  mutate(perc = round(n/sum(n) * 100, 0)) %>%
+  arrange(desc(n))
+
+kable(gender_archived_tally)
+
+dc_archived_pre_2017 %>%
+  select(`Gender`) %>%
+  group_by(`Gender`) %>%
+  tally() %>%
+  filter(!is.na(`Gender`)) %>%
+  mutate(`Race-Ethnicity` = factor(`Gender`, levels = gender)) %>%
+
+ggplot(aes(x = `Gender`, y = 100 * (n/sum(n)))) +
+geom_bar(stat = "identity", position = "dodge", fill = "maroon", na.rm = TRUE ) +
+geom_text(aes(label=n), size= 4, vjust=-0.25) + # Adds count to top of bar
+scale_x_discrete(labels = function(x) lapply(strwrap(x,
+                                                         width = 10,
+                                                         simplify = FALSE),
+                                                 paste,
+                                                 collapse = "\n")) +
+    theme_classic() +
+    xlab("Gender") +
+    ylab("% respondents") +
+    ggtitle("2017 Breakdown of Respondents by Gender (Archived Survey)") +
+    theme(plot.title = element_text(hjust = 0.5)) +
+    theme_classic(base_size = 14)
+```
+
+# Racial/Ethnic Identity (U.S. Data Only)
+
+Per various international laws, we are only allowed to collect race/ethnicity information for learners attending workshops in the United States.
+
+__Which race/ethnicity best describes you? (Please choose only one.)__
+```{r race_ethnicity_archived_US}
+# Which race/ethnicity best describes you? (Please choose only one.)
+  race = c("American Indian or Alaskan Native", 
+           "Asian/Pacific Islander", 
+           "Black or African American", 
+           "Hispanic or Latino", 
+           "Native Hawaiian or other Pacific Islander", 
+           "White/Caucasian", 
+           "Prefer not to say") 
+  race = factor(race)
+
+dc_archived_pre_2017$`Race-Ethnicity` = factor(dc_archived_pre_2017$`Race-Ethnicity`, levels = race)
+
+  race_tally <-
+   dc_archived_pre_2017 %>%
+   group_by(`Race-Ethnicity`) %>%
+   tally() %>%
+   filter(!is.na(`Race-Ethnicity`)) %>%
+   mutate(perc = round(n/sum(n) * 100, 0)) %>%
+   arrange(desc(n))
+
+ kable(race_tally)
+
+dc_archived_pre_2017 %>%
+  select(`Race-Ethnicity`) %>%
+  group_by(`Race-Ethnicity`) %>%
+  tally() %>%
+  filter(!is.na(`Race-Ethnicity`)) %>%
+  mutate(`Race-Ethnicity` = factor(`Race-Ethnicity`, levels = race)) %>%
+
+ggplot(aes(x = `Race-Ethnicity`, y = 100 * (n/sum(n)))) +
+geom_bar(stat = "identity", position = "dodge", fill = "maroon", na.rm = TRUE ) +
+geom_text(aes(label=n), size= 4, vjust=-0.25) + # Adds count to top of bar
+scale_x_discrete(labels = function(x) lapply(strwrap(x,
+                                                         width = 10,
+                                                         simplify = FALSE),
+                                                 paste,
+                                                 collapse = "\n")) +
+    theme_classic() +
+    xlab("Race/Ethnicity") +
+    ylab("% respondents") +
+    ggtitle("2017 Breakdown of U.S. Respondents by Race/Ethnicity (Archived Survey)") +
+    theme(plot.title = element_text(hjust = 0.5)) +
+    theme_classic(base_size = 14)
+  
+```
+
+The following includes demographic data for those individuals who took Data Carpentry's current [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_presurvey.pdf) in 2017. There were a total 991 learners who completed this survey in 2017.
 
 ```{r}
 # Function that makes a table of counts and percentages
@@ -59,8 +283,6 @@ idx <- ifelse(rowsums == 0, FALSE, TRUE)
 sum(idx)
 }
 ```
-
-The following includes demographic data for those individuals who took Data Carpentry's [pre-workshop survey](https://github.com/carpentries/assessment/blob/master/learner-assessment/surveys/dc_presurvey.pdf) in 2017. There were a total 991 learners who completed this survey in 2017.
 
 # Domain
 
