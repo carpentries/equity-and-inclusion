@@ -15,7 +15,7 @@ opts_chunk$set(fig.path='figures/2017_learners_') #puts all figures in figures f
 
 ```{r include=FALSE}
 # Loading dataset for the 2017 pre-workshop survey demographics for Software Carpentry
-swc_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/demographics/software-carpentry/2017/2017-swc-pre-demographics.csv")
+swc_pre_2017 <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/data/swcpre-2017.csv")
 ```
 
 ```{r}
@@ -107,7 +107,7 @@ kable(exposure)
 
 __What is your current position?__
 
-```{r position}
+```{r swc_2017_position}
 # What is your current position?
 position = c("Undergraduate Student", "Graduate Student", "Post-doctoral researcher", "Faculty", "Research staff (including research programmer)", "Support staff (including technical support)", "Librarian/archivist", "Commercial software developer", "Other (please specify)")
 position = factor(position)
@@ -173,7 +173,7 @@ kable(domain_percent,
 
 __What is your gender?__
 
-```{r gender}
+```{r swc_2017_gender}
 # What is your gender?
 gender = c("Female", "Male", "Other", "Prefer not to say")
 gender = factor(gender)
@@ -218,7 +218,7 @@ scale_x_discrete(labels = function(x) lapply(strwrap(x,
 Per various international laws, we are only allowed to collect race/ethnicity information for learners attending workshops in the United States.
 
 __Which race/ethnicity best describes you? (Please choose only one.)__
-```{r race_ethnicity_US}
+```{r swc_2017_race_ethnicity_US}
 # Which race/ethnicity best describes you? (Please choose only one.)
   race = c("American Indian or Alaskan Native", 
            "Asian / Pacific Islander", 
