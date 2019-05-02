@@ -1,6 +1,6 @@
 ## Operational Definitions
 
-**Accessibility**
+**Accessibility**  
 Program/process design and implementation that offers multiple avenues for access and participation.
 
 **Cultural Competence**  
