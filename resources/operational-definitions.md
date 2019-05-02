@@ -13,11 +13,8 @@ The state of having and applying knowledge and skill in four areas:
 **Diversity**   
 *Individual differences* (e.g. personality, language, learning styles and life experiences) and group-social differences (e.g. race, ethnicity, class, gender, gender identity, sexual orientation, sexual identity, country of origin and ability status, as well as cultural, political, religious or other affiliations) *that can be engaged in the service of learning.*   
 
-**Equity (Learner)**  
-The creation of opportunities for equal access to and participation in educational programs that are capable of closing the achievement gaps in learner success and completion.   
-
-**Equity (Volunteer/Community Member)**  
-The creation of opportunities for volunteers/community members to have equal access to professional growth opportunities and resource networks that are capable of closing demographic disparities in leadership roles and other spheres of institutional involvement. 
+**Equity**  
+The creation of opportunities for equal access to and participation in programs that are capable of closing participation gaps in our community.
 
 **Inclusion**   
 The active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community. 
