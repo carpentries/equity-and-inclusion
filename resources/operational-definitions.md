@@ -20,7 +20,7 @@ The creation of opportunities for equal access to and participation in education
 The creation of opportunities for volunteers/community members to have equal access to professional growth opportunities and resource networks that are capable of closing demographic disparities in leadership roles and other spheres of institutional involvement. 
 
 **Inclusion**   
-The active, intentional, and ongoing engagement with diversity in people, curriculum, and communities (intellectual, social, cultural, geographical) with which individuals might connect in ways that increase their awareness, content knowledge, cognitive sophistication and empathic understanding of the complex ways individuals interact within (and change) systems and institutions. 
+The active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community. 
 
 
 Over an extended period of time, individuals and organizations develop the wisdom and capability to: 
