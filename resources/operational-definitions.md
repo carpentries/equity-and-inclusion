@@ -19,10 +19,5 @@ The creation of opportunities for equal access to and participation in programs 
 **Inclusion**   
 The active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community. 
 
-
-Over an extended period of time, individuals and organizations develop the wisdom and capability to: 
-1. Examine critically how cultural worldviews influence perceptions of power, dominance and inequality; and 
-2. Behave honorably within the complex dynamics of differences and commonalities among humans, groups and systems.
-
 ## Source 
 Adapted from California State East Bay's [Diversity, Leadership, and Employee Wellness](http://www.csueastbay.edu/about/diversity/files/docs/pdfs/operational-def-diversity-equity-inclusion.pdf) site.
