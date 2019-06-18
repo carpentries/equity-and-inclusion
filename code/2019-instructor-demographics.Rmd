@@ -1,0 +1,90 @@
+---
+title: "2019-instructor-demographics"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(knitr)
+```
+
+
+```{r}
+by_gender_country <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/data/instructor-demographics-gender-country_2019_06_17.csv")
+
+by_domain <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/data/instructor-demographics-domain_2019_06_17.csv")
+```
+
+```{r}
+# Function that makes a table of counts and percentages
+# question_n is set by default to the number of respondents in the survey. This value may have to be set by question.
+question_n <- nrow(by_gender_country)
+
+tally_and_perc <- function(df, colname, na.rm = FALSE, question_n){
+  quo_colname <- enquo(colname)
+
+  df %>%
+    group_by(!!quo_colname) %>%
+    tally() %>%
+    filter(if_else(rep(na.rm, nrow(.)),
+                  !is.na(!!quo_colname),
+                  as.logical(rep(1, nrow(.))))) %>%
+    mutate(`%` = round(n / question_n * 100, 1))
+}
+
+# function to compute number of non-NA responses to a question
+
+n_responses_to_the_question <- function(df, from_colname, to_colname) {
+
+  quo_from_colname <- enquo(from_colname)
+  quo_to_colname <- enquo(to_colname)
+
+  rowsums <-
+df %>%
+  select(UQ(quo_from_colname):UQ(quo_to_colname)) %>%
+  # check that each row has a value for at least one col
+  # convert to numeric, if NA, then put a zero, otherwise 1
+  map_df(., ~ifelse(is.na(.x), 0, 1)) %>%
+  # sum to see if any rows have no reponses
+  rowSums()
+
+# for all behaviors
+idx <- ifelse(rowsums == 0, FALSE, TRUE)
+sum(idx)
+}
+```
+
+```{r instructors-by-country}
+## Tally Certified Instructors by Country
+
+instructors_by_country <- by_gender_country %>%
+    group_by(country) %>%
+    tally(sort = TRUE) %>%
+    mutate(percent = round(100 * (n/sum(n)), 1)) %>% # add the % col
+    filter(!is.na(country))
+
+get_instructors_by_country_percent <- function(country_var, .data = instructors_by_country) {
+    extract_percentage(.data, .var = country, .value = country_var)
+}
+
+
+head(instructors_by_country)
+```
+
+```{r instructors-by-gender}
+## Tally Certified Instructors by Gender
+
+instructors_by_gender <- by_gender_country %>%
+    group_by(gender) %>%
+    tally(sort = TRUE) %>%
+    mutate(percent = round(100 * (n/sum(n)), 1)) %>% # add the % col
+    filter(!is.na(gender))
+
+get_instructors_by_gender_percent <- function(country_var, .data = instructors_by_gender) {
+    extract_percentage(.data, .var = country, .value = country_var)
+}
+
+
+head(instructors_by_gender)
+```
