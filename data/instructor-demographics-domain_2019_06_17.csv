@@ -1,0 +1,3815 @@
+person_id,domain
+48,Chemistry
+48,"Genetics, genomics, bioinformatics"
+75,"Planetary sciences (geology, climatology, oceanography, etc.)"
+75,Physics
+75,"Civil, mechanical, chemical, or nuclear engineering"
+75,Computer science/electrical engineering
+85,"Organismal biology (ecology, botany, zoology, microbiology)"
+87,"Genetics, genomics, bioinformatics"
+87,Mathematics/statistics
+126,Physics
+126,Computer science/electrical engineering
+126,High performance computing
+135,"Planetary sciences (geology, climatology, oceanography, etc.)"
+135,"Organismal biology (ecology, botany, zoology, microbiology)"
+135,"Genetics, genomics, bioinformatics"
+155,"Planetary sciences (geology, climatology, oceanography, etc.)"
+155,Computer science/electrical engineering
+155,Social sciences
+155,Humanities
+155,Library and information science
+155,Education
+155,Mathematics/statistics
+187,"Genetics, genomics, bioinformatics"
+219,Computer science/electrical engineering
+219,Library and information science
+231,"Organismal biology (ecology, botany, zoology, microbiology)"
+231,Computer science/electrical engineering
+253,"Genetics, genomics, bioinformatics"
+253,Mathematics/statistics
+266,Physics
+282,"Genetics, genomics, bioinformatics"
+282,Computer science/electrical engineering
+282,Mathematics/statistics
+282,High performance computing
+319,Computer science/electrical engineering
+319,Education
+319,Mathematics/statistics
+319,High performance computing
+345,Computer science/electrical engineering
+345,Psychology/neuroscience
+345,Humanities
+361,Physics
+361,High performance computing
+410,Computer science/electrical engineering
+415,"Organismal biology (ecology, botany, zoology, microbiology)"
+439,Humanities
+439,Library and information science
+458,Physics
+458,Computer science/electrical engineering
+458,Education
+464,Computer science/electrical engineering
+497,Space sciences
+497,Physics
+500,"Organismal biology (ecology, botany, zoology, microbiology)"
+502,"Planetary sciences (geology, climatology, oceanography, etc.)"
+502,Physics
+502,"Organismal biology (ecology, botany, zoology, microbiology)"
+502,Computer science/electrical engineering
+502,High performance computing
+506,Space sciences
+506,High performance computing
+544,Physics
+544,Chemistry
+544,Computer science/electrical engineering
+544,High performance computing
+559,"Planetary sciences (geology, climatology, oceanography, etc.)"
+559,Computer science/electrical engineering
+559,Social sciences
+570,"Organismal biology (ecology, botany, zoology, microbiology)"
+570,"Genetics, genomics, bioinformatics"
+574,"Genetics, genomics, bioinformatics"
+591,"Organismal biology (ecology, botany, zoology, microbiology)"
+591,"Genetics, genomics, bioinformatics"
+591,Education
+609,Computer science/electrical engineering
+609,Psychology/neuroscience
+609,High performance computing
+616,Computer science/electrical engineering
+647,"Organismal biology (ecology, botany, zoology, microbiology)"
+674,Physics
+674,Computer science/electrical engineering
+674,Mathematics/statistics
+674,High performance computing
+684,"Organismal biology (ecology, botany, zoology, microbiology)"
+684,"Genetics, genomics, bioinformatics"
+751,"Genetics, genomics, bioinformatics"
+751,Mathematics/statistics
+761,Library and information science
+779,"Genetics, genomics, bioinformatics"
+795,"Planetary sciences (geology, climatology, oceanography, etc.)"
+795,"Organismal biology (ecology, botany, zoology, microbiology)"
+795,Mathematics/statistics
+796,"Organismal biology (ecology, botany, zoology, microbiology)"
+815,"Organismal biology (ecology, botany, zoology, microbiology)"
+815,"Genetics, genomics, bioinformatics"
+815,Computer science/electrical engineering
+815,Mathematics/statistics
+823,"Planetary sciences (geology, climatology, oceanography, etc.)"
+823,"Genetics, genomics, bioinformatics"
+823,"Civil, mechanical, chemical, or nuclear engineering"
+823,Mathematics/statistics
+823,High performance computing
+832,"Organismal biology (ecology, botany, zoology, microbiology)"
+832,Mathematics/statistics
+841,Space sciences
+841,Physics
+854,Space sciences
+854,Library and information science
+854,Mathematics/statistics
+856,Space sciences
+856,Computer science/electrical engineering
+910,"Genetics, genomics, bioinformatics"
+910,Mathematics/statistics
+920,Medicine
+920,Psychology/neuroscience
+949,"Genetics, genomics, bioinformatics"
+949,Mathematics/statistics
+963,"Genetics, genomics, bioinformatics"
+963,Mathematics/statistics
+963,High performance computing
+965,"Genetics, genomics, bioinformatics"
+973,"Organismal biology (ecology, botany, zoology, microbiology)"
+973,"Genetics, genomics, bioinformatics"
+978,"Organismal biology (ecology, botany, zoology, microbiology)"
+978,Psychology/neuroscience
+1005,High performance computing
+1007,Mathematics/statistics
+1060,Computer science/electrical engineering
+1099,"Genetics, genomics, bioinformatics"
+1099,Computer science/electrical engineering
+1122,Computer science/electrical engineering
+1122,High performance computing
+1126,Computer science/electrical engineering
+1126,Social sciences
+1126,Humanities
+1126,Library and information science
+1126,Education
+1126,High performance computing
+1139,Computer science/electrical engineering
+1139,Library and information science
+1182,"Organismal biology (ecology, botany, zoology, microbiology)"
+1182,"Genetics, genomics, bioinformatics"
+1182,High performance computing
+1213,"Organismal biology (ecology, botany, zoology, microbiology)"
+1213,"Genetics, genomics, bioinformatics"
+1230,"Planetary sciences (geology, climatology, oceanography, etc.)"
+1270,Economics/business
+1270,Mathematics/statistics
+1276,Computer science/electrical engineering
+1276,High performance computing
+1286,"Organismal biology (ecology, botany, zoology, microbiology)"
+1286,"Genetics, genomics, bioinformatics"
+1292,"Genetics, genomics, bioinformatics"
+1292,Medicine
+1292,Mathematics/statistics
+1292,High performance computing
+1322,"Organismal biology (ecology, botany, zoology, microbiology)"
+1322,"Genetics, genomics, bioinformatics"
+1325,"Genetics, genomics, bioinformatics"
+1359,"Genetics, genomics, bioinformatics"
+1359,Medicine
+1359,Computer science/electrical engineering
+1359,Psychology/neuroscience
+1423,Economics/business
+1423,Education
+1445,Computer science/electrical engineering
+1445,High performance computing
+1463,"Organismal biology (ecology, botany, zoology, microbiology)"
+1468,Physics
+1481,"Organismal biology (ecology, botany, zoology, microbiology)"
+1481,"Genetics, genomics, bioinformatics"
+1481,"Civil, mechanical, chemical, or nuclear engineering"
+1486,Computer science/electrical engineering
+1490,Humanities
+1490,Education
+1524,"Planetary sciences (geology, climatology, oceanography, etc.)"
+1524,"Organismal biology (ecology, botany, zoology, microbiology)"
+1553,"Organismal biology (ecology, botany, zoology, microbiology)"
+1553,"Genetics, genomics, bioinformatics"
+1553,Computer science/electrical engineering
+1553,High performance computing
+1577,Space sciences
+1577,Physics
+1577,Computer science/electrical engineering
+1577,Education
+1577,Mathematics/statistics
+1577,High performance computing
+1581,Psychology/neuroscience
+1581,Library and information science
+1585,"Organismal biology (ecology, botany, zoology, microbiology)"
+1585,Computer science/electrical engineering
+1585,High performance computing
+1611,High performance computing
+1621,"Organismal biology (ecology, botany, zoology, microbiology)"
+1621,"Genetics, genomics, bioinformatics"
+1621,Medicine
+1621,Computer science/electrical engineering
+1621,Psychology/neuroscience
+1621,Mathematics/statistics
+1621,High performance computing
+1637,Physics
+1637,Computer science/electrical engineering
+1637,Economics/business
+1642,"Organismal biology (ecology, botany, zoology, microbiology)"
+1649,"Planetary sciences (geology, climatology, oceanography, etc.)"
+1649,Physics
+1649,Mathematics/statistics
+1658,Chemistry
+1676,"Planetary sciences (geology, climatology, oceanography, etc.)"
+1676,Physics
+1676,Mathematics/statistics
+1676,High performance computing
+1678,Computer science/electrical engineering
+1678,Humanities
+1678,Library and information science
+1685,"Planetary sciences (geology, climatology, oceanography, etc.)"
+1685,Physics
+1685,High performance computing
+1687,"Organismal biology (ecology, botany, zoology, microbiology)"
+1687,"Genetics, genomics, bioinformatics"
+1700,Computer science/electrical engineering
+1701,Computer science/electrical engineering
+1701,High performance computing
+1703,Physics
+1703,Education
+1703,Mathematics/statistics
+1703,High performance computing
+1711,"Genetics, genomics, bioinformatics"
+1711,High performance computing
+1757,"Planetary sciences (geology, climatology, oceanography, etc.)"
+1757,"Organismal biology (ecology, botany, zoology, microbiology)"
+1798,"Genetics, genomics, bioinformatics"
+1804,"Organismal biology (ecology, botany, zoology, microbiology)"
+1804,"Genetics, genomics, bioinformatics"
+1806,"Genetics, genomics, bioinformatics"
+1806,Computer science/electrical engineering
+1806,High performance computing
+1827,Space sciences
+1827,Physics
+1828,"Civil, mechanical, chemical, or nuclear engineering"
+1914,Chemistry
+1954,Physics
+1954,Psychology/neuroscience
+1954,High performance computing
+1957,"Civil, mechanical, chemical, or nuclear engineering"
+1957,Computer science/electrical engineering
+1980,Computer science/electrical engineering
+1980,Social sciences
+1980,Humanities
+1980,Mathematics/statistics
+1987,Chemistry
+1987,High performance computing
+2006,"Genetics, genomics, bioinformatics"
+2006,Computer science/electrical engineering
+2006,High performance computing
+2036,"Organismal biology (ecology, botany, zoology, microbiology)"
+2036,"Genetics, genomics, bioinformatics"
+2036,Computer science/electrical engineering
+2037,Physics
+2037,"Genetics, genomics, bioinformatics"
+2054,Physics
+2054,High performance computing
+2070,Social sciences
+2070,Humanities
+2106,"Planetary sciences (geology, climatology, oceanography, etc.)"
+2106,Computer science/electrical engineering
+2106,Library and information science
+2113,"Organismal biology (ecology, botany, zoology, microbiology)"
+2129,Social sciences
+2129,Psychology/neuroscience
+2184,Computer science/electrical engineering
+2184,Economics/business
+2184,Social sciences
+2184,Mathematics/statistics
+2184,High performance computing
+2228,"Organismal biology (ecology, botany, zoology, microbiology)"
+2261,Space sciences
+2261,Physics
+2272,Computer science/electrical engineering
+2272,Education
+2272,Mathematics/statistics
+2278,"Planetary sciences (geology, climatology, oceanography, etc.)"
+2278,Computer science/electrical engineering
+2278,Social sciences
+2278,Library and information science
+2308,Social sciences
+2375,"Organismal biology (ecology, botany, zoology, microbiology)"
+2375,Education
+2375,Mathematics/statistics
+2375,High performance computing
+2406,Physics
+2406,Computer science/electrical engineering
+2406,High performance computing
+2416,High performance computing
+2436,Chemistry
+2436,"Organismal biology (ecology, botany, zoology, microbiology)"
+2436,Psychology/neuroscience
+2452,"Planetary sciences (geology, climatology, oceanography, etc.)"
+2452,Education
+2452,Mathematics/statistics
+2495,Computer science/electrical engineering
+2507,"Organismal biology (ecology, botany, zoology, microbiology)"
+2515,Computer science/electrical engineering
+2515,Mathematics/statistics
+2525,"Genetics, genomics, bioinformatics"
+2551,"Organismal biology (ecology, botany, zoology, microbiology)"
+2551,"Genetics, genomics, bioinformatics"
+2551,Medicine
+2551,Mathematics/statistics
+2554,"Genetics, genomics, bioinformatics"
+2554,Computer science/electrical engineering
+2554,High performance computing
+2556,"Genetics, genomics, bioinformatics"
+2560,Psychology/neuroscience
+2573,"Genetics, genomics, bioinformatics"
+2573,Library and information science
+2586,"Organismal biology (ecology, botany, zoology, microbiology)"
+2589,"Genetics, genomics, bioinformatics"
+2589,High performance computing
+2607,Computer science/electrical engineering
+2607,High performance computing
+2623,"Organismal biology (ecology, botany, zoology, microbiology)"
+2623,"Genetics, genomics, bioinformatics"
+2636,"Genetics, genomics, bioinformatics"
+2636,High performance computing
+2644,"Organismal biology (ecology, botany, zoology, microbiology)"
+2644,"Genetics, genomics, bioinformatics"
+2653,Medicine
+2667,"Genetics, genomics, bioinformatics"
+2702,Library and information science
+2707,"Genetics, genomics, bioinformatics"
+2707,Medicine
+2707,Computer science/electrical engineering
+2707,Education
+2724,"Organismal biology (ecology, botany, zoology, microbiology)"
+2724,Computer science/electrical engineering
+2724,Humanities
+2727,Physics
+2727,Education
+2727,Mathematics/statistics
+2727,High performance computing
+2733,Computer science/electrical engineering
+2733,Social sciences
+2737,"Genetics, genomics, bioinformatics"
+2737,Mathematics/statistics
+2738,Economics/business
+2738,Humanities
+2738,Library and information science
+2742,"Organismal biology (ecology, botany, zoology, microbiology)"
+2742,"Genetics, genomics, bioinformatics"
+2759,"Genetics, genomics, bioinformatics"
+2761,"Genetics, genomics, bioinformatics"
+2819,"Genetics, genomics, bioinformatics"
+2819,Computer science/electrical engineering
+2848,"Genetics, genomics, bioinformatics"
+2851,"Genetics, genomics, bioinformatics"
+2943,Physics
+2943,Mathematics/statistics
+2943,High performance computing
+2978,Computer science/electrical engineering
+2978,Psychology/neuroscience
+2978,Education
+3000,"Organismal biology (ecology, botany, zoology, microbiology)"
+3000,Mathematics/statistics
+3008,"Genetics, genomics, bioinformatics"
+3032,"Organismal biology (ecology, botany, zoology, microbiology)"
+3032,"Genetics, genomics, bioinformatics"
+3060,"Organismal biology (ecology, botany, zoology, microbiology)"
+3060,"Genetics, genomics, bioinformatics"
+3077,Physics
+3077,Computer science/electrical engineering
+3115,Computer science/electrical engineering
+3115,Library and information science
+3126,"Genetics, genomics, bioinformatics"
+3137,Computer science/electrical engineering
+3137,Library and information science
+3137,Mathematics/statistics
+3142,"Organismal biology (ecology, botany, zoology, microbiology)"
+3142,"Genetics, genomics, bioinformatics"
+3150,Computer science/electrical engineering
+3151,Physics
+3151,Chemistry
+3186,Medicine
+3226,Computer science/electrical engineering
+3226,Psychology/neuroscience
+3242,"Planetary sciences (geology, climatology, oceanography, etc.)"
+3242,Computer science/electrical engineering
+3243,"Genetics, genomics, bioinformatics"
+3243,Mathematics/statistics
+3261,Social sciences
+3278,Chemistry
+3278,"Organismal biology (ecology, botany, zoology, microbiology)"
+3278,"Genetics, genomics, bioinformatics"
+3278,Psychology/neuroscience
+3278,Education
+3282,Computer science/electrical engineering
+3291,"Organismal biology (ecology, botany, zoology, microbiology)"
+3321,Space sciences
+3361,"Planetary sciences (geology, climatology, oceanography, etc.)"
+3375,Economics/business
+3375,Social sciences
+3375,Education
+3375,Mathematics/statistics
+3376,"Genetics, genomics, bioinformatics"
+3376,Mathematics/statistics
+3388,"Genetics, genomics, bioinformatics"
+3396,"Genetics, genomics, bioinformatics"
+3405,"Genetics, genomics, bioinformatics"
+3411,"Organismal biology (ecology, botany, zoology, microbiology)"
+3411,"Genetics, genomics, bioinformatics"
+3411,Medicine
+3411,Computer science/electrical engineering
+3411,Education
+3411,High performance computing
+3417,"Organismal biology (ecology, botany, zoology, microbiology)"
+3417,"Genetics, genomics, bioinformatics"
+3424,Physics
+3424,"Genetics, genomics, bioinformatics"
+3424,Computer science/electrical engineering
+3424,Mathematics/statistics
+3424,High performance computing
+3432,"Genetics, genomics, bioinformatics"
+3432,Mathematics/statistics
+3433,"Planetary sciences (geology, climatology, oceanography, etc.)"
+3433,Computer science/electrical engineering
+3455,"Organismal biology (ecology, botany, zoology, microbiology)"
+3455,"Genetics, genomics, bioinformatics"
+3455,Computer science/electrical engineering
+3459,Physics
+3459,Chemistry
+3470,Chemistry
+3470,Education
+3485,"Organismal biology (ecology, botany, zoology, microbiology)"
+3485,Library and information science
+3509,Psychology/neuroscience
+3509,Mathematics/statistics
+3522,"Organismal biology (ecology, botany, zoology, microbiology)"
+3569,"Genetics, genomics, bioinformatics"
+3569,Psychology/neuroscience
+3601,"Organismal biology (ecology, botany, zoology, microbiology)"
+3601,"Genetics, genomics, bioinformatics"
+3601,Computer science/electrical engineering
+3623,Physics
+3623,"Civil, mechanical, chemical, or nuclear engineering"
+3699,Psychology/neuroscience
+3706,"Genetics, genomics, bioinformatics"
+3719,Computer science/electrical engineering
+3724,"Planetary sciences (geology, climatology, oceanography, etc.)"
+3724,"Genetics, genomics, bioinformatics"
+3724,Computer science/electrical engineering
+3724,High performance computing
+3729,"Planetary sciences (geology, climatology, oceanography, etc.)"
+3743,Computer science/electrical engineering
+3743,Psychology/neuroscience
+3743,Mathematics/statistics
+3763,Computer science/electrical engineering
+3763,High performance computing
+3770,"Planetary sciences (geology, climatology, oceanography, etc.)"
+3770,Physics
+3770,Computer science/electrical engineering
+3770,Mathematics/statistics
+3770,High performance computing
+3804,Chemistry
+3804,"Genetics, genomics, bioinformatics"
+3804,Mathematics/statistics
+3806,Physics
+3806,"Civil, mechanical, chemical, or nuclear engineering"
+3806,High performance computing
+3812,Physics
+3826,Physics
+3826,Computer science/electrical engineering
+3902,Medicine
+3902,Mathematics/statistics
+3913,"Planetary sciences (geology, climatology, oceanography, etc.)"
+3913,"Genetics, genomics, bioinformatics"
+3913,Computer science/electrical engineering
+3921,"Genetics, genomics, bioinformatics"
+3923,Computer science/electrical engineering
+3923,Library and information science
+3923,High performance computing
+3950,"Organismal biology (ecology, botany, zoology, microbiology)"
+3950,"Genetics, genomics, bioinformatics"
+3950,High performance computing
+4074,"Organismal biology (ecology, botany, zoology, microbiology)"
+4074,"Genetics, genomics, bioinformatics"
+4074,Mathematics/statistics
+4074,High performance computing
+4096,Physics
+4096,Computer science/electrical engineering
+4096,Mathematics/statistics
+4096,High performance computing
+4124,"Genetics, genomics, bioinformatics"
+4135,"Civil, mechanical, chemical, or nuclear engineering"
+4135,High performance computing
+4193,Computer science/electrical engineering
+4210,"Organismal biology (ecology, botany, zoology, microbiology)"
+4225,"Organismal biology (ecology, botany, zoology, microbiology)"
+4242,"Genetics, genomics, bioinformatics"
+4242,High performance computing
+4251,Mathematics/statistics
+4260,"Organismal biology (ecology, botany, zoology, microbiology)"
+4260,"Genetics, genomics, bioinformatics"
+4261,"Genetics, genomics, bioinformatics"
+4272,Psychology/neuroscience
+4291,Computer science/electrical engineering
+4291,Mathematics/statistics
+4293,Mathematics/statistics
+4297,"Organismal biology (ecology, botany, zoology, microbiology)"
+4400,Physics
+4400,"Organismal biology (ecology, botany, zoology, microbiology)"
+4400,"Genetics, genomics, bioinformatics"
+4400,Education
+4400,Mathematics/statistics
+4400,High performance computing
+4422,"Genetics, genomics, bioinformatics"
+4423,Physics
+4435,Computer science/electrical engineering
+4440,Economics/business
+4440,Social sciences
+4440,High performance computing
+4444,"Organismal biology (ecology, botany, zoology, microbiology)"
+4444,"Genetics, genomics, bioinformatics"
+4444,Mathematics/statistics
+4446,"Genetics, genomics, bioinformatics"
+4446,Computer science/electrical engineering
+4446,High performance computing
+4458,Library and information science
+4494,"Planetary sciences (geology, climatology, oceanography, etc.)"
+4494,Physics
+4494,"Civil, mechanical, chemical, or nuclear engineering"
+4507,"Genetics, genomics, bioinformatics"
+4507,Computer science/electrical engineering
+4513,"Planetary sciences (geology, climatology, oceanography, etc.)"
+4513,"Civil, mechanical, chemical, or nuclear engineering"
+4521,"Planetary sciences (geology, climatology, oceanography, etc.)"
+4521,Physics
+4535,"Organismal biology (ecology, botany, zoology, microbiology)"
+4551,"Planetary sciences (geology, climatology, oceanography, etc.)"
+4551,"Organismal biology (ecology, botany, zoology, microbiology)"
+4551,High performance computing
+4589,Computer science/electrical engineering
+4589,Economics/business
+4589,Social sciences
+4589,Education
+4589,Mathematics/statistics
+4589,High performance computing
+4590,Computer science/electrical engineering
+4628,Space sciences
+4628,Physics
+4628,Medicine
+4628,"Civil, mechanical, chemical, or nuclear engineering"
+4628,Computer science/electrical engineering
+4628,Social sciences
+4628,Psychology/neuroscience
+4628,High performance computing
+4651,"Organismal biology (ecology, botany, zoology, microbiology)"
+4669,Social sciences
+4669,Psychology/neuroscience
+4669,Humanities
+4669,Library and information science
+4669,Education
+4669,Mathematics/statistics
+4677,Medicine
+4677,Social sciences
+4727,"Genetics, genomics, bioinformatics"
+4770,Physics
+4772,"Genetics, genomics, bioinformatics"
+4772,Mathematics/statistics
+4772,High performance computing
+4776,Space sciences
+4776,Physics
+4776,Computer science/electrical engineering
+4776,Mathematics/statistics
+4787,"Planetary sciences (geology, climatology, oceanography, etc.)"
+4917,"Organismal biology (ecology, botany, zoology, microbiology)"
+4917,Computer science/electrical engineering
+4918,"Organismal biology (ecology, botany, zoology, microbiology)"
+4918,"Genetics, genomics, bioinformatics"
+4941,"Genetics, genomics, bioinformatics"
+4948,"Genetics, genomics, bioinformatics"
+5024,"Planetary sciences (geology, climatology, oceanography, etc.)"
+5024,Computer science/electrical engineering
+5024,High performance computing
+5035,"Organismal biology (ecology, botany, zoology, microbiology)"
+5035,Mathematics/statistics
+5049,Computer science/electrical engineering
+5049,Mathematics/statistics
+5049,High performance computing
+5071,"Organismal biology (ecology, botany, zoology, microbiology)"
+5185,"Genetics, genomics, bioinformatics"
+5185,Education
+5248,"Genetics, genomics, bioinformatics"
+5248,Computer science/electrical engineering
+5248,Library and information science
+5248,High performance computing
+5254,Physics
+5254,Computer science/electrical engineering
+5255,"Planetary sciences (geology, climatology, oceanography, etc.)"
+5255,Social sciences
+5268,Computer science/electrical engineering
+5306,Mathematics/statistics
+5332,"Genetics, genomics, bioinformatics"
+5332,Medicine
+5332,Education
+5349,"Organismal biology (ecology, botany, zoology, microbiology)"
+5358,"Organismal biology (ecology, botany, zoology, microbiology)"
+5358,"Genetics, genomics, bioinformatics"
+5358,Computer science/electrical engineering
+5358,Education
+5358,Mathematics/statistics
+5358,High performance computing
+5371,Library and information science
+5381,"Genetics, genomics, bioinformatics"
+5385,Physics
+5385,Psychology/neuroscience
+5414,"Organismal biology (ecology, botany, zoology, microbiology)"
+5414,"Genetics, genomics, bioinformatics"
+5433,"Civil, mechanical, chemical, or nuclear engineering"
+5487,Physics
+5498,Chemistry
+5498,"Genetics, genomics, bioinformatics"
+5498,Medicine
+5498,Psychology/neuroscience
+5498,High performance computing
+5507,"Organismal biology (ecology, botany, zoology, microbiology)"
+5507,"Genetics, genomics, bioinformatics"
+5508,"Organismal biology (ecology, botany, zoology, microbiology)"
+5508,"Genetics, genomics, bioinformatics"
+5508,Computer science/electrical engineering
+5509,Computer science/electrical engineering
+5519,"Planetary sciences (geology, climatology, oceanography, etc.)"
+5522,"Civil, mechanical, chemical, or nuclear engineering"
+5522,High performance computing
+5528,"Civil, mechanical, chemical, or nuclear engineering"
+5528,Mathematics/statistics
+5558,"Genetics, genomics, bioinformatics"
+5558,Library and information science
+5601,Computer science/electrical engineering
+5607,"Civil, mechanical, chemical, or nuclear engineering"
+5607,Computer science/electrical engineering
+5607,Mathematics/statistics
+5641,"Civil, mechanical, chemical, or nuclear engineering"
+5641,Education
+5655,Economics/business
+5655,Social sciences
+5707,Computer science/electrical engineering
+5720,"Organismal biology (ecology, botany, zoology, microbiology)"
+5720,Mathematics/statistics
+5751,"Civil, mechanical, chemical, or nuclear engineering"
+5752,"Genetics, genomics, bioinformatics"
+5752,High performance computing
+5800,Humanities
+5800,Library and information science
+5802,"Organismal biology (ecology, botany, zoology, microbiology)"
+5802,Computer science/electrical engineering
+5810,"Genetics, genomics, bioinformatics"
+5814,"Genetics, genomics, bioinformatics"
+5814,Computer science/electrical engineering
+5814,High performance computing
+5847,Chemistry
+5847,"Civil, mechanical, chemical, or nuclear engineering"
+5864,"Organismal biology (ecology, botany, zoology, microbiology)"
+5864,"Genetics, genomics, bioinformatics"
+5866,"Genetics, genomics, bioinformatics"
+5866,Computer science/electrical engineering
+5866,Mathematics/statistics
+5880,Computer science/electrical engineering
+5888,Physics
+5888,"Civil, mechanical, chemical, or nuclear engineering"
+5938,"Genetics, genomics, bioinformatics"
+5938,Medicine
+5939,Space sciences
+5939,Physics
+5940,Physics
+5940,Chemistry
+5940,Mathematics/statistics
+5940,High performance computing
+5962,Chemistry
+5962,High performance computing
+5991,"Genetics, genomics, bioinformatics"
+5991,Computer science/electrical engineering
+5998,Social sciences
+6005,Physics
+6005,High performance computing
+6023,"Genetics, genomics, bioinformatics"
+6042,"Planetary sciences (geology, climatology, oceanography, etc.)"
+6042,Physics
+6061,"Genetics, genomics, bioinformatics"
+6061,Computer science/electrical engineering
+6061,High performance computing
+6062,Psychology/neuroscience
+6103,Chemistry
+6103,"Organismal biology (ecology, botany, zoology, microbiology)"
+6103,"Genetics, genomics, bioinformatics"
+6103,Medicine
+6103,Education
+6152,Space sciences
+6152,"Planetary sciences (geology, climatology, oceanography, etc.)"
+6152,"Civil, mechanical, chemical, or nuclear engineering"
+6152,Computer science/electrical engineering
+6157,Computer science/electrical engineering
+6157,Economics/business
+6157,Social sciences
+6157,Library and information science
+6157,Education
+6157,Mathematics/statistics
+6162,"Genetics, genomics, bioinformatics"
+6260,"Organismal biology (ecology, botany, zoology, microbiology)"
+6260,Library and information science
+6260,Education
+6266,"Genetics, genomics, bioinformatics"
+6266,Computer science/electrical engineering
+6266,High performance computing
+6269,Computer science/electrical engineering
+6269,Social sciences
+6269,Library and information science
+6269,High performance computing
+6284,Psychology/neuroscience
+6300,"Genetics, genomics, bioinformatics"
+6300,Computer science/electrical engineering
+6306,Computer science/electrical engineering
+6306,Social sciences
+6306,Psychology/neuroscience
+6306,High performance computing
+6316,"Organismal biology (ecology, botany, zoology, microbiology)"
+6326,Space sciences
+6326,Physics
+6335,"Planetary sciences (geology, climatology, oceanography, etc.)"
+6370,"Planetary sciences (geology, climatology, oceanography, etc.)"
+6370,"Civil, mechanical, chemical, or nuclear engineering"
+6370,Social sciences
+6370,High performance computing
+6394,"Organismal biology (ecology, botany, zoology, microbiology)"
+6394,"Genetics, genomics, bioinformatics"
+6414,Computer science/electrical engineering
+6414,High performance computing
+6419,"Organismal biology (ecology, botany, zoology, microbiology)"
+6419,"Genetics, genomics, bioinformatics"
+6420,Computer science/electrical engineering
+6420,Psychology/neuroscience
+6425,"Organismal biology (ecology, botany, zoology, microbiology)"
+6425,"Genetics, genomics, bioinformatics"
+6450,Medicine
+6450,Library and information science
+6453,Physics
+6453,High performance computing
+6467,Computer science/electrical engineering
+6496,"Genetics, genomics, bioinformatics"
+6513,Chemistry
+6513,"Organismal biology (ecology, botany, zoology, microbiology)"
+6513,"Genetics, genomics, bioinformatics"
+6513,Mathematics/statistics
+6536,Humanities
+6539,Computer science/electrical engineering
+6539,Economics/business
+6539,Social sciences
+6539,Mathematics/statistics
+6539,High performance computing
+6615,"Genetics, genomics, bioinformatics"
+6642,"Planetary sciences (geology, climatology, oceanography, etc.)"
+6642,High performance computing
+6656,"Planetary sciences (geology, climatology, oceanography, etc.)"
+6656,Physics
+6699,"Genetics, genomics, bioinformatics"
+6699,Computer science/electrical engineering
+6699,High performance computing
+6701,"Planetary sciences (geology, climatology, oceanography, etc.)"
+6701,"Organismal biology (ecology, botany, zoology, microbiology)"
+6738,"Planetary sciences (geology, climatology, oceanography, etc.)"
+6738,Chemistry
+6769,"Organismal biology (ecology, botany, zoology, microbiology)"
+6769,High performance computing
+6771,Computer science/electrical engineering
+6771,Library and information science
+6785,Physics
+6796,Computer science/electrical engineering
+6796,High performance computing
+6797,"Organismal biology (ecology, botany, zoology, microbiology)"
+6808,"Genetics, genomics, bioinformatics"
+6808,Computer science/electrical engineering
+6811,"Genetics, genomics, bioinformatics"
+6832,"Organismal biology (ecology, botany, zoology, microbiology)"
+6832,"Genetics, genomics, bioinformatics"
+6843,"Organismal biology (ecology, botany, zoology, microbiology)"
+6847,"Genetics, genomics, bioinformatics"
+6847,Mathematics/statistics
+6848,"Organismal biology (ecology, botany, zoology, microbiology)"
+6849,Computer science/electrical engineering
+6849,Mathematics/statistics
+6882,Chemistry
+6886,Psychology/neuroscience
+6913,Space sciences
+6913,Physics
+6913,Education
+6922,"Organismal biology (ecology, botany, zoology, microbiology)"
+6922,Economics/business
+6922,Mathematics/statistics
+6922,High performance computing
+6943,"Organismal biology (ecology, botany, zoology, microbiology)"
+6943,"Genetics, genomics, bioinformatics"
+6943,Psychology/neuroscience
+6984,Library and information science
+6984,Education
+6991,Computer science/electrical engineering
+7017,Physics
+7053,Computer science/electrical engineering
+7083,Social sciences
+7083,Humanities
+7100,Physics
+7100,Chemistry
+7163,"Genetics, genomics, bioinformatics"
+7163,Mathematics/statistics
+7163,High performance computing
+7169,"Organismal biology (ecology, botany, zoology, microbiology)"
+7169,"Genetics, genomics, bioinformatics"
+7169,Medicine
+7176,"Organismal biology (ecology, botany, zoology, microbiology)"
+7184,Humanities
+7184,Library and information science
+7194,"Genetics, genomics, bioinformatics"
+7195,Computer science/electrical engineering
+7195,High performance computing
+7222,"Organismal biology (ecology, botany, zoology, microbiology)"
+7222,"Genetics, genomics, bioinformatics"
+7222,High performance computing
+7230,Physics
+7230,"Civil, mechanical, chemical, or nuclear engineering"
+7230,Computer science/electrical engineering
+7230,Mathematics/statistics
+7230,High performance computing
+7233,"Genetics, genomics, bioinformatics"
+7233,Computer science/electrical engineering
+7259,"Organismal biology (ecology, botany, zoology, microbiology)"
+7259,"Genetics, genomics, bioinformatics"
+7281,"Organismal biology (ecology, botany, zoology, microbiology)"
+7292,"Organismal biology (ecology, botany, zoology, microbiology)"
+7292,"Genetics, genomics, bioinformatics"
+7344,"Genetics, genomics, bioinformatics"
+7344,Education
+7357,Space sciences
+7357,Physics
+7357,Mathematics/statistics
+7359,"Organismal biology (ecology, botany, zoology, microbiology)"
+7371,"Genetics, genomics, bioinformatics"
+7376,Computer science/electrical engineering
+7376,Mathematics/statistics
+7405,"Civil, mechanical, chemical, or nuclear engineering"
+7405,High performance computing
+7464,Computer science/electrical engineering
+7527,"Civil, mechanical, chemical, or nuclear engineering"
+7535,Computer science/electrical engineering
+7535,Humanities
+7548,"Organismal biology (ecology, botany, zoology, microbiology)"
+7548,"Genetics, genomics, bioinformatics"
+7548,Mathematics/statistics
+7552,Physics
+7552,Chemistry
+7552,Computer science/electrical engineering
+7552,Mathematics/statistics
+7552,High performance computing
+7557,Physics
+7577,Computer science/electrical engineering
+7577,High performance computing
+7582,Social sciences
+7582,Psychology/neuroscience
+7582,Mathematics/statistics
+7615,"Planetary sciences (geology, climatology, oceanography, etc.)"
+7615,Mathematics/statistics
+7659,"Genetics, genomics, bioinformatics"
+7659,Computer science/electrical engineering
+7659,High performance computing
+7662,"Civil, mechanical, chemical, or nuclear engineering"
+7662,High performance computing
+7663,Computer science/electrical engineering
+7671,Medicine
+7671,Computer science/electrical engineering
+7675,"Organismal biology (ecology, botany, zoology, microbiology)"
+7675,"Genetics, genomics, bioinformatics"
+7675,Psychology/neuroscience
+7675,High performance computing
+7684,"Genetics, genomics, bioinformatics"
+7691,"Genetics, genomics, bioinformatics"
+7691,Computer science/electrical engineering
+7691,High performance computing
+7693,"Genetics, genomics, bioinformatics"
+7693,"Civil, mechanical, chemical, or nuclear engineering"
+7700,"Genetics, genomics, bioinformatics"
+7729,"Organismal biology (ecology, botany, zoology, microbiology)"
+7729,"Genetics, genomics, bioinformatics"
+7743,Computer science/electrical engineering
+7743,High performance computing
+7847,"Organismal biology (ecology, botany, zoology, microbiology)"
+7847,"Genetics, genomics, bioinformatics"
+7858,"Genetics, genomics, bioinformatics"
+7864,"Organismal biology (ecology, botany, zoology, microbiology)"
+7873,Computer science/electrical engineering
+7873,Mathematics/statistics
+7907,"Genetics, genomics, bioinformatics"
+7917,Psychology/neuroscience
+7969,Physics
+7971,"Organismal biology (ecology, botany, zoology, microbiology)"
+7971,"Genetics, genomics, bioinformatics"
+7973,"Genetics, genomics, bioinformatics"
+7976,Social sciences
+7976,Humanities
+7994,"Genetics, genomics, bioinformatics"
+7994,Computer science/electrical engineering
+7994,Education
+7995,Physics
+8017,Social sciences
+8017,Humanities
+8026,"Organismal biology (ecology, botany, zoology, microbiology)"
+8048,Physics
+8048,Chemistry
+8048,High performance computing
+8050,Psychology/neuroscience
+8053,Computer science/electrical engineering
+8053,Library and information science
+8070,Space sciences
+8070,Physics
+8070,Mathematics/statistics
+8070,High performance computing
+8086,"Organismal biology (ecology, botany, zoology, microbiology)"
+8086,"Genetics, genomics, bioinformatics"
+8086,Psychology/neuroscience
+8114,Computer science/electrical engineering
+8114,Psychology/neuroscience
+8126,"Organismal biology (ecology, botany, zoology, microbiology)"
+8151,Psychology/neuroscience
+8151,High performance computing
+8174,Computer science/electrical engineering
+8174,Social sciences
+8174,Mathematics/statistics
+8202,Mathematics/statistics
+8215,"Genetics, genomics, bioinformatics"
+8221,Humanities
+8222,"Planetary sciences (geology, climatology, oceanography, etc.)"
+8222,Chemistry
+8222,"Organismal biology (ecology, botany, zoology, microbiology)"
+8222,Library and information science
+8222,Education
+8222,Mathematics/statistics
+8236,"Organismal biology (ecology, botany, zoology, microbiology)"
+8236,"Genetics, genomics, bioinformatics"
+8238,"Planetary sciences (geology, climatology, oceanography, etc.)"
+8238,Education
+8264,"Civil, mechanical, chemical, or nuclear engineering"
+8264,Economics/business
+8265,Physics
+8265,Computer science/electrical engineering
+8265,Library and information science
+8265,Mathematics/statistics
+8265,High performance computing
+8274,Physics
+8274,Chemistry
+8274,Education
+8274,Mathematics/statistics
+8274,High performance computing
+8283,"Genetics, genomics, bioinformatics"
+8283,Computer science/electrical engineering
+8283,High performance computing
+8291,"Genetics, genomics, bioinformatics"
+8299,"Genetics, genomics, bioinformatics"
+8299,Computer science/electrical engineering
+8299,Social sciences
+8306,"Organismal biology (ecology, botany, zoology, microbiology)"
+8306,"Genetics, genomics, bioinformatics"
+8320,Computer science/electrical engineering
+8320,Mathematics/statistics
+8325,"Organismal biology (ecology, botany, zoology, microbiology)"
+8325,"Genetics, genomics, bioinformatics"
+8325,Mathematics/statistics
+8325,High performance computing
+8335,Physics
+8335,Computer science/electrical engineering
+8335,Mathematics/statistics
+8335,High performance computing
+8346,"Genetics, genomics, bioinformatics"
+8346,Mathematics/statistics
+8393,Space sciences
+8393,Physics
+8393,Computer science/electrical engineering
+8412,"Organismal biology (ecology, botany, zoology, microbiology)"
+8412,Computer science/electrical engineering
+8438,Chemistry
+8438,"Organismal biology (ecology, botany, zoology, microbiology)"
+8438,"Genetics, genomics, bioinformatics"
+8471,"Planetary sciences (geology, climatology, oceanography, etc.)"
+8474,"Planetary sciences (geology, climatology, oceanography, etc.)"
+8474,High performance computing
+8480,"Planetary sciences (geology, climatology, oceanography, etc.)"
+8482,Social sciences
+8482,Library and information science
+8491,"Genetics, genomics, bioinformatics"
+8491,Mathematics/statistics
+8497,"Genetics, genomics, bioinformatics"
+8497,Psychology/neuroscience
+8595,"Organismal biology (ecology, botany, zoology, microbiology)"
+8595,"Genetics, genomics, bioinformatics"
+8595,Mathematics/statistics
+8598,Physics
+8598,"Organismal biology (ecology, botany, zoology, microbiology)"
+8598,Psychology/neuroscience
+8598,Mathematics/statistics
+8606,"Organismal biology (ecology, botany, zoology, microbiology)"
+8620,Physics
+8623,Humanities
+8623,Library and information science
+8648,"Organismal biology (ecology, botany, zoology, microbiology)"
+8685,Computer science/electrical engineering
+8685,Mathematics/statistics
+8697,"Organismal biology (ecology, botany, zoology, microbiology)"
+8698,"Organismal biology (ecology, botany, zoology, microbiology)"
+8698,Mathematics/statistics
+8700,"Organismal biology (ecology, botany, zoology, microbiology)"
+8710,"Organismal biology (ecology, botany, zoology, microbiology)"
+8710,"Genetics, genomics, bioinformatics"
+8721,Social sciences
+8721,Library and information science
+8728,"Genetics, genomics, bioinformatics"
+8740,Computer science/electrical engineering
+8740,High performance computing
+8755,"Genetics, genomics, bioinformatics"
+8755,Education
+8757,Psychology/neuroscience
+8757,Mathematics/statistics
+8763,"Organismal biology (ecology, botany, zoology, microbiology)"
+8763,"Genetics, genomics, bioinformatics"
+8770,Physics
+8770,Chemistry
+8770,"Civil, mechanical, chemical, or nuclear engineering"
+8770,Mathematics/statistics
+8770,High performance computing
+8777,Computer science/electrical engineering
+8777,Education
+8784,"Civil, mechanical, chemical, or nuclear engineering"
+8784,High performance computing
+8796,Physics
+8796,Computer science/electrical engineering
+8827,"Genetics, genomics, bioinformatics"
+8830,"Genetics, genomics, bioinformatics"
+8849,Library and information science
+8862,Chemistry
+8862,High performance computing
+8877,"Organismal biology (ecology, botany, zoology, microbiology)"
+8877,"Genetics, genomics, bioinformatics"
+8877,Mathematics/statistics
+8884,Psychology/neuroscience
+8920,"Genetics, genomics, bioinformatics"
+8920,High performance computing
+8978,"Organismal biology (ecology, botany, zoology, microbiology)"
+8978,"Genetics, genomics, bioinformatics"
+8982,Computer science/electrical engineering
+8982,Economics/business
+8982,Social sciences
+8982,Library and information science
+9052,"Genetics, genomics, bioinformatics"
+9103,Computer science/electrical engineering
+9103,High performance computing
+9150,"Civil, mechanical, chemical, or nuclear engineering"
+9165,"Genetics, genomics, bioinformatics"
+9165,Computer science/electrical engineering
+9165,Mathematics/statistics
+9165,High performance computing
+9243,"Organismal biology (ecology, botany, zoology, microbiology)"
+9243,"Genetics, genomics, bioinformatics"
+9245,Physics
+9245,Computer science/electrical engineering
+9245,Psychology/neuroscience
+9249,Space sciences
+9249,Physics
+9249,High performance computing
+9276,Mathematics/statistics
+9286,"Genetics, genomics, bioinformatics"
+9288,"Organismal biology (ecology, botany, zoology, microbiology)"
+9288,"Genetics, genomics, bioinformatics"
+9291,"Genetics, genomics, bioinformatics"
+9291,Social sciences
+9291,Mathematics/statistics
+9301,"Genetics, genomics, bioinformatics"
+9311,"Organismal biology (ecology, botany, zoology, microbiology)"
+9311,"Genetics, genomics, bioinformatics"
+9313,"Organismal biology (ecology, botany, zoology, microbiology)"
+9313,"Genetics, genomics, bioinformatics"
+9313,Library and information science
+9314,Space sciences
+9314,Physics
+9314,Mathematics/statistics
+9314,High performance computing
+9317,Physics
+9317,Psychology/neuroscience
+9321,"Planetary sciences (geology, climatology, oceanography, etc.)"
+9321,Chemistry
+9322,Computer science/electrical engineering
+9322,High performance computing
+9323,Computer science/electrical engineering
+9323,High performance computing
+9326,Computer science/electrical engineering
+9326,High performance computing
+9327,Space sciences
+9327,Physics
+9327,High performance computing
+9328,Physics
+9328,Computer science/electrical engineering
+9328,Mathematics/statistics
+9328,High performance computing
+9330,Physics
+9330,Chemistry
+9330,"Genetics, genomics, bioinformatics"
+9330,Computer science/electrical engineering
+9330,Mathematics/statistics
+9330,High performance computing
+9331,Psychology/neuroscience
+9331,Humanities
+9332,Physics
+9332,High performance computing
+9333,Social sciences
+9333,Humanities
+9333,High performance computing
+9334,Space sciences
+9334,High performance computing
+9335,Computer science/electrical engineering
+9335,Mathematics/statistics
+9335,High performance computing
+9378,"Genetics, genomics, bioinformatics"
+9383,Space sciences
+9383,Social sciences
+9383,Humanities
+9383,Education
+9385,"Genetics, genomics, bioinformatics"
+9385,Computer science/electrical engineering
+9385,High performance computing
+9391,"Genetics, genomics, bioinformatics"
+9394,Economics/business
+9396,Chemistry
+9396,High performance computing
+9400,Social sciences
+9400,Psychology/neuroscience
+9400,Mathematics/statistics
+9401,"Organismal biology (ecology, botany, zoology, microbiology)"
+9401,Library and information science
+9406,Computer science/electrical engineering
+9406,High performance computing
+9407,Computer science/electrical engineering
+9409,Space sciences
+9409,Physics
+9409,"Genetics, genomics, bioinformatics"
+9410,"Genetics, genomics, bioinformatics"
+9410,Computer science/electrical engineering
+9418,Physics
+9418,Computer science/electrical engineering
+9418,Social sciences
+9418,Humanities
+9418,High performance computing
+9419,Space sciences
+9419,Physics
+9419,High performance computing
+9533,Computer science/electrical engineering
+9550,Space sciences
+9550,Library and information science
+9550,High performance computing
+9591,"Organismal biology (ecology, botany, zoology, microbiology)"
+9697,"Planetary sciences (geology, climatology, oceanography, etc.)"
+9839,"Genetics, genomics, bioinformatics"
+9839,Computer science/electrical engineering
+9839,Mathematics/statistics
+9847,"Organismal biology (ecology, botany, zoology, microbiology)"
+9859,"Genetics, genomics, bioinformatics"
+9869,"Organismal biology (ecology, botany, zoology, microbiology)"
+9930,Computer science/electrical engineering
+9930,High performance computing
+10032,"Organismal biology (ecology, botany, zoology, microbiology)"
+10032,High performance computing
+10034,"Genetics, genomics, bioinformatics"
+10034,Computer science/electrical engineering
+10035,Humanities
+10037,Mathematics/statistics
+10041,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10041,Physics
+10041,High performance computing
+10046,Computer science/electrical engineering
+10134,"Organismal biology (ecology, botany, zoology, microbiology)"
+10134,"Genetics, genomics, bioinformatics"
+10135,Library and information science
+10135,Education
+10138,Library and information science
+10139,Humanities
+10139,Library and information science
+10151,Social sciences
+10151,Library and information science
+10165,Computer science/electrical engineering
+10168,Computer science/electrical engineering
+10168,Psychology/neuroscience
+10169,Computer science/electrical engineering
+10171,Psychology/neuroscience
+10177,Chemistry
+10177,High performance computing
+10182,Physics
+10182,Psychology/neuroscience
+10182,Mathematics/statistics
+10183,Psychology/neuroscience
+10187,"Genetics, genomics, bioinformatics"
+10187,Computer science/electrical engineering
+10192,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10192,"Organismal biology (ecology, botany, zoology, microbiology)"
+10195,Space sciences
+10195,Physics
+10195,Mathematics/statistics
+10196,"Organismal biology (ecology, botany, zoology, microbiology)"
+10196,"Genetics, genomics, bioinformatics"
+10196,Mathematics/statistics
+10199,"Organismal biology (ecology, botany, zoology, microbiology)"
+10199,Mathematics/statistics
+10201,"Genetics, genomics, bioinformatics"
+10217,"Genetics, genomics, bioinformatics"
+10225,"Civil, mechanical, chemical, or nuclear engineering"
+10225,Mathematics/statistics
+10225,High performance computing
+10231,Computer science/electrical engineering
+10231,Humanities
+10244,Space sciences
+10244,Physics
+10244,Mathematics/statistics
+10278,Space sciences
+10278,Physics
+10307,Physics
+10308,"Genetics, genomics, bioinformatics"
+10308,Education
+10310,Computer science/electrical engineering
+10317,Space sciences
+10317,Physics
+10319,Computer science/electrical engineering
+10319,Education
+10319,Mathematics/statistics
+10325,"Genetics, genomics, bioinformatics"
+10325,Mathematics/statistics
+10325,High performance computing
+10327,"Genetics, genomics, bioinformatics"
+10327,Computer science/electrical engineering
+10327,Education
+10328,"Organismal biology (ecology, botany, zoology, microbiology)"
+10329,"Genetics, genomics, bioinformatics"
+10330,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10332,Computer science/electrical engineering
+10334,Computer science/electrical engineering
+10334,Mathematics/statistics
+10334,High performance computing
+10341,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10341,"Organismal biology (ecology, botany, zoology, microbiology)"
+10343,"Genetics, genomics, bioinformatics"
+10343,High performance computing
+10344,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10344,Computer science/electrical engineering
+10344,High performance computing
+10345,Physics
+10345,"Genetics, genomics, bioinformatics"
+10346,Computer science/electrical engineering
+10346,Psychology/neuroscience
+10351,Computer science/electrical engineering
+10351,Psychology/neuroscience
+10353,"Civil, mechanical, chemical, or nuclear engineering"
+10353,Computer science/electrical engineering
+10353,High performance computing
+10358,Computer science/electrical engineering
+10358,Mathematics/statistics
+10381,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10381,Physics
+10381,Computer science/electrical engineering
+10381,High performance computing
+10391,Physics
+10391,Computer science/electrical engineering
+10391,High performance computing
+10392,"Organismal biology (ecology, botany, zoology, microbiology)"
+10393,"Genetics, genomics, bioinformatics"
+10398,"Genetics, genomics, bioinformatics"
+10399,"Genetics, genomics, bioinformatics"
+10399,Computer science/electrical engineering
+10402,Computer science/electrical engineering
+10402,Humanities
+10402,Library and information science
+10402,Mathematics/statistics
+10405,"Genetics, genomics, bioinformatics"
+10405,Computer science/electrical engineering
+10405,Mathematics/statistics
+10406,Computer science/electrical engineering
+10406,Psychology/neuroscience
+10407,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10407,Library and information science
+10407,Education
+10409,Physics
+10409,High performance computing
+10414,Chemistry
+10414,"Genetics, genomics, bioinformatics"
+10416,Medicine
+10416,Psychology/neuroscience
+10462,"Genetics, genomics, bioinformatics"
+10462,Computer science/electrical engineering
+10462,Education
+10462,High performance computing
+10463,Computer science/electrical engineering
+10464,"Genetics, genomics, bioinformatics"
+10464,Computer science/electrical engineering
+10464,Library and information science
+10464,Mathematics/statistics
+10464,High performance computing
+10465,Computer science/electrical engineering
+10465,Library and information science
+10465,Mathematics/statistics
+10467,Computer science/electrical engineering
+10467,Mathematics/statistics
+10469,Computer science/electrical engineering
+10472,Computer science/electrical engineering
+10472,Social sciences
+10472,Psychology/neuroscience
+10472,Humanities
+10473,Computer science/electrical engineering
+10473,Mathematics/statistics
+10474,"Genetics, genomics, bioinformatics"
+10475,Space sciences
+10475,Physics
+10475,Mathematics/statistics
+10481,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10481,"Civil, mechanical, chemical, or nuclear engineering"
+10482,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10483,"Organismal biology (ecology, botany, zoology, microbiology)"
+10486,Computer science/electrical engineering
+10490,Mathematics/statistics
+10491,Physics
+10491,"Organismal biology (ecology, botany, zoology, microbiology)"
+10491,Mathematics/statistics
+10492,Psychology/neuroscience
+10493,"Organismal biology (ecology, botany, zoology, microbiology)"
+10493,"Genetics, genomics, bioinformatics"
+10494,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10494,Physics
+10494,High performance computing
+10495,"Genetics, genomics, bioinformatics"
+10495,Medicine
+10495,High performance computing
+10496,Computer science/electrical engineering
+10496,High performance computing
+10497,Computer science/electrical engineering
+10497,Psychology/neuroscience
+10511,"Organismal biology (ecology, botany, zoology, microbiology)"
+10511,"Genetics, genomics, bioinformatics"
+10513,"Genetics, genomics, bioinformatics"
+10514,Computer science/electrical engineering
+10514,Library and information science
+10515,Space sciences
+10515,Computer science/electrical engineering
+10515,High performance computing
+10516,"Genetics, genomics, bioinformatics"
+10516,Mathematics/statistics
+10519,"Organismal biology (ecology, botany, zoology, microbiology)"
+10519,"Genetics, genomics, bioinformatics"
+10522,"Genetics, genomics, bioinformatics"
+10523,Computer science/electrical engineering
+10525,Physics
+10525,Psychology/neuroscience
+10526,"Organismal biology (ecology, botany, zoology, microbiology)"
+10526,"Genetics, genomics, bioinformatics"
+10527,"Organismal biology (ecology, botany, zoology, microbiology)"
+10527,"Genetics, genomics, bioinformatics"
+10527,Medicine
+10527,Library and information science
+10528,Computer science/electrical engineering
+10528,Education
+10528,Mathematics/statistics
+10529,Computer science/electrical engineering
+10529,Mathematics/statistics
+10533,Library and information science
+10534,"Organismal biology (ecology, botany, zoology, microbiology)"
+10534,"Genetics, genomics, bioinformatics"
+10534,Computer science/electrical engineering
+10535,Social sciences
+10535,Psychology/neuroscience
+10536,Mathematics/statistics
+10583,Social sciences
+10583,Humanities
+10583,High performance computing
+10585,"Organismal biology (ecology, botany, zoology, microbiology)"
+10585,"Genetics, genomics, bioinformatics"
+10590,Mathematics/statistics
+10590,High performance computing
+10596,Computer science/electrical engineering
+10597,Computer science/electrical engineering
+10597,Library and information science
+10629,Computer science/electrical engineering
+10629,Economics/business
+10629,Social sciences
+10629,Library and information science
+10629,Education
+10629,Mathematics/statistics
+10629,High performance computing
+10635,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10635,Chemistry
+10635,"Organismal biology (ecology, botany, zoology, microbiology)"
+10635,Mathematics/statistics
+10644,"Organismal biology (ecology, botany, zoology, microbiology)"
+10644,"Genetics, genomics, bioinformatics"
+10645,"Organismal biology (ecology, botany, zoology, microbiology)"
+10647,Chemistry
+10647,Library and information science
+10647,Education
+10648,Social sciences
+10648,Humanities
+10648,Library and information science
+10650,Computer science/electrical engineering
+10655,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10655,"Organismal biology (ecology, botany, zoology, microbiology)"
+10656,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10656,"Organismal biology (ecology, botany, zoology, microbiology)"
+10657,"Organismal biology (ecology, botany, zoology, microbiology)"
+10657,"Genetics, genomics, bioinformatics"
+10657,Computer science/electrical engineering
+10658,"Organismal biology (ecology, botany, zoology, microbiology)"
+10658,High performance computing
+10660,Humanities
+10660,Library and information science
+10661,"Organismal biology (ecology, botany, zoology, microbiology)"
+10661,Mathematics/statistics
+10662,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10662,"Organismal biology (ecology, botany, zoology, microbiology)"
+10663,Chemistry
+10663,"Genetics, genomics, bioinformatics"
+10663,Education
+10663,High performance computing
+10664,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10664,"Organismal biology (ecology, botany, zoology, microbiology)"
+10664,Mathematics/statistics
+10664,High performance computing
+10667,Mathematics/statistics
+10669,"Organismal biology (ecology, botany, zoology, microbiology)"
+10669,Social sciences
+10669,Library and information science
+10670,"Organismal biology (ecology, botany, zoology, microbiology)"
+10670,Education
+10673,Computer science/electrical engineering
+10675,Space sciences
+10675,"Organismal biology (ecology, botany, zoology, microbiology)"
+10675,"Genetics, genomics, bioinformatics"
+10675,Computer science/electrical engineering
+10675,High performance computing
+10697,"Genetics, genomics, bioinformatics"
+10713,"Planetary sciences (geology, climatology, oceanography, etc.)"
+10727,"Organismal biology (ecology, botany, zoology, microbiology)"
+10727,"Genetics, genomics, bioinformatics"
+10727,High performance computing
+10827,Physics
+10827,Chemistry
+10831,Computer science/electrical engineering
+10832,Mathematics/statistics
+10835,Computer science/electrical engineering
+10877,"Genetics, genomics, bioinformatics"
+10934,"Genetics, genomics, bioinformatics"
+10935,"Genetics, genomics, bioinformatics"
+10935,Computer science/electrical engineering
+10935,High performance computing
+10936,Computer science/electrical engineering
+10936,High performance computing
+10937,"Organismal biology (ecology, botany, zoology, microbiology)"
+10937,"Genetics, genomics, bioinformatics"
+10939,"Genetics, genomics, bioinformatics"
+10940,Computer science/electrical engineering
+10940,Economics/business
+10943,Chemistry
+10943,"Genetics, genomics, bioinformatics"
+10943,Medicine
+10944,"Organismal biology (ecology, botany, zoology, microbiology)"
+10944,"Genetics, genomics, bioinformatics"
+10945,Computer science/electrical engineering
+10948,"Organismal biology (ecology, botany, zoology, microbiology)"
+10948,"Genetics, genomics, bioinformatics"
+10949,"Genetics, genomics, bioinformatics"
+10949,Computer science/electrical engineering
+10949,Mathematics/statistics
+10950,"Genetics, genomics, bioinformatics"
+10953,Computer science/electrical engineering
+10962,Humanities
+10962,Library and information science
+11067,"Genetics, genomics, bioinformatics"
+11067,Computer science/electrical engineering
+11067,Mathematics/statistics
+11092,"Genetics, genomics, bioinformatics"
+11092,Education
+11171,Mathematics/statistics
+11173,Computer science/electrical engineering
+11173,Mathematics/statistics
+11173,High performance computing
+11181,Economics/business
+11184,Social sciences
+11184,Humanities
+11184,Library and information science
+11187,"Organismal biology (ecology, botany, zoology, microbiology)"
+11187,"Genetics, genomics, bioinformatics"
+11187,Mathematics/statistics
+11187,High performance computing
+11188,"Genetics, genomics, bioinformatics"
+11190,"Organismal biology (ecology, botany, zoology, microbiology)"
+11190,"Genetics, genomics, bioinformatics"
+11193,"Organismal biology (ecology, botany, zoology, microbiology)"
+11196,Library and information science
+11197,Chemistry
+11238,Social sciences
+11240,Computer science/electrical engineering
+11240,Education
+11248,"Genetics, genomics, bioinformatics"
+11248,Medicine
+11248,Computer science/electrical engineering
+11248,Psychology/neuroscience
+11248,Education
+11248,Mathematics/statistics
+11249,Physics
+11249,"Genetics, genomics, bioinformatics"
+11249,Education
+11250,"Genetics, genomics, bioinformatics"
+11250,Computer science/electrical engineering
+11250,Education
+11250,Mathematics/statistics
+11251,"Planetary sciences (geology, climatology, oceanography, etc.)"
+11251,Computer science/electrical engineering
+11251,Economics/business
+11251,High performance computing
+11252,"Genetics, genomics, bioinformatics"
+11254,"Organismal biology (ecology, botany, zoology, microbiology)"
+11254,"Genetics, genomics, bioinformatics"
+11254,Education
+11254,High performance computing
+11255,"Genetics, genomics, bioinformatics"
+11255,Computer science/electrical engineering
+11255,Education
+11255,High performance computing
+11260,"Planetary sciences (geology, climatology, oceanography, etc.)"
+11260,Computer science/electrical engineering
+11260,Mathematics/statistics
+11261,Computer science/electrical engineering
+11262,Computer science/electrical engineering
+11262,Social sciences
+11262,High performance computing
+11265,Library and information science
+11268,Computer science/electrical engineering
+11268,High performance computing
+11275,Social sciences
+11275,Humanities
+11275,Library and information science
+11277,Computer science/electrical engineering
+11278,"Genetics, genomics, bioinformatics"
+11278,Computer science/electrical engineering
+11280,"Genetics, genomics, bioinformatics"
+11282,Physics
+11282,Computer science/electrical engineering
+11282,High performance computing
+11286,"Genetics, genomics, bioinformatics"
+11287,"Planetary sciences (geology, climatology, oceanography, etc.)"
+11287,Physics
+11287,Computer science/electrical engineering
+11287,High performance computing
+11292,Space sciences
+11292,Physics
+11292,Computer science/electrical engineering
+11293,Computer science/electrical engineering
+11293,Mathematics/statistics
+11293,High performance computing
+11294,"Organismal biology (ecology, botany, zoology, microbiology)"
+11294,"Genetics, genomics, bioinformatics"
+11294,Mathematics/statistics
+11295,"Planetary sciences (geology, climatology, oceanography, etc.)"
+11298,"Planetary sciences (geology, climatology, oceanography, etc.)"
+11298,Computer science/electrical engineering
+11298,High performance computing
+11311,"Organismal biology (ecology, botany, zoology, microbiology)"
+11362,Library and information science
+11362,Education
+11362,Mathematics/statistics
+11365,"Genetics, genomics, bioinformatics"
+11367,"Organismal biology (ecology, botany, zoology, microbiology)"
+11369,"Organismal biology (ecology, botany, zoology, microbiology)"
+11371,"Organismal biology (ecology, botany, zoology, microbiology)"
+11371,"Genetics, genomics, bioinformatics"
+11376,"Organismal biology (ecology, botany, zoology, microbiology)"
+11376,Social sciences
+11376,Mathematics/statistics
+11391,"Organismal biology (ecology, botany, zoology, microbiology)"
+11391,"Genetics, genomics, bioinformatics"
+11391,High performance computing
+11401,"Genetics, genomics, bioinformatics"
+11401,Computer science/electrical engineering
+11401,High performance computing
+11402,"Organismal biology (ecology, botany, zoology, microbiology)"
+11402,"Genetics, genomics, bioinformatics"
+11402,Computer science/electrical engineering
+11402,High performance computing
+11403,"Genetics, genomics, bioinformatics"
+11403,Computer science/electrical engineering
+11404,Space sciences
+11404,Physics
+11404,High performance computing
+11405,Computer science/electrical engineering
+11541,"Genetics, genomics, bioinformatics"
+11541,Medicine
+11541,Education
+11541,Mathematics/statistics
+11541,High performance computing
+11614,"Genetics, genomics, bioinformatics"
+11646,"Genetics, genomics, bioinformatics"
+11649,"Organismal biology (ecology, botany, zoology, microbiology)"
+11650,Library and information science
+11650,Education
+11651,Computer science/electrical engineering
+11651,Mathematics/statistics
+11651,High performance computing
+11652,Mathematics/statistics
+11653,Education
+11657,"Organismal biology (ecology, botany, zoology, microbiology)"
+11657,"Genetics, genomics, bioinformatics"
+11657,Education
+11663,"Planetary sciences (geology, climatology, oceanography, etc.)"
+11663,"Civil, mechanical, chemical, or nuclear engineering"
+11664,"Organismal biology (ecology, botany, zoology, microbiology)"
+11664,Education
+11665,Computer science/electrical engineering
+11670,Space sciences
+11670,Physics
+11670,Computer science/electrical engineering
+11670,Mathematics/statistics
+11670,High performance computing
+11672,"Genetics, genomics, bioinformatics"
+11672,Computer science/electrical engineering
+11672,High performance computing
+11674,"Genetics, genomics, bioinformatics"
+11674,Computer science/electrical engineering
+11674,High performance computing
+11676,Physics
+11676,Mathematics/statistics
+11676,High performance computing
+11677,Chemistry
+11677,"Genetics, genomics, bioinformatics"
+11677,High performance computing
+11681,Physics
+11681,Chemistry
+11681,High performance computing
+11683,"Genetics, genomics, bioinformatics"
+11683,Computer science/electrical engineering
+11683,Mathematics/statistics
+11683,High performance computing
+11685,Physics
+11685,High performance computing
+11687,"Civil, mechanical, chemical, or nuclear engineering"
+11687,High performance computing
+11719,Physics
+11719,Chemistry
+11719,"Civil, mechanical, chemical, or nuclear engineering"
+11721,"Planetary sciences (geology, climatology, oceanography, etc.)"
+11728,"Genetics, genomics, bioinformatics"
+11728,Computer science/electrical engineering
+11730,Computer science/electrical engineering
+11730,Mathematics/statistics
+11749,"Genetics, genomics, bioinformatics"
+11749,Education
+11749,High performance computing
+11758,Chemistry
+11765,Computer science/electrical engineering
+11765,High performance computing
+11785,"Organismal biology (ecology, botany, zoology, microbiology)"
+11785,"Genetics, genomics, bioinformatics"
+11785,High performance computing
+11795,Physics
+11830,"Genetics, genomics, bioinformatics"
+11830,High performance computing
+11894,Chemistry
+11894,"Organismal biology (ecology, botany, zoology, microbiology)"
+11894,Computer science/electrical engineering
+11894,Mathematics/statistics
+12000,"Civil, mechanical, chemical, or nuclear engineering"
+12037,"Genetics, genomics, bioinformatics"
+12037,Computer science/electrical engineering
+12037,Mathematics/statistics
+12037,High performance computing
+12038,"Genetics, genomics, bioinformatics"
+12091,"Organismal biology (ecology, botany, zoology, microbiology)"
+12109,"Organismal biology (ecology, botany, zoology, microbiology)"
+12109,"Genetics, genomics, bioinformatics"
+12171,"Organismal biology (ecology, botany, zoology, microbiology)"
+12171,"Genetics, genomics, bioinformatics"
+12175,"Genetics, genomics, bioinformatics"
+12175,Computer science/electrical engineering
+12177,Physics
+12177,Social sciences
+12177,Humanities
+12177,Education
+12177,Mathematics/statistics
+12180,Computer science/electrical engineering
+12180,Economics/business
+12180,Social sciences
+12180,Psychology/neuroscience
+12180,Education
+12180,Mathematics/statistics
+12187,"Civil, mechanical, chemical, or nuclear engineering"
+12187,High performance computing
+12189,Humanities
+12189,Education
+12189,Mathematics/statistics
+12193,"Planetary sciences (geology, climatology, oceanography, etc.)"
+12193,Computer science/electrical engineering
+12195,"Planetary sciences (geology, climatology, oceanography, etc.)"
+12195,Computer science/electrical engineering
+12204,Computer science/electrical engineering
+12204,Social sciences
+12204,Humanities
+12204,Library and information science
+12204,Education
+12204,Mathematics/statistics
+12205,Education
+12205,Mathematics/statistics
+12206,"Organismal biology (ecology, botany, zoology, microbiology)"
+12206,"Genetics, genomics, bioinformatics"
+12209,Economics/business
+12209,Social sciences
+12209,Humanities
+12210,"Genetics, genomics, bioinformatics"
+12214,Social sciences
+12214,Psychology/neuroscience
+12214,Humanities
+12215,"Genetics, genomics, bioinformatics"
+12215,Computer science/electrical engineering
+12215,Mathematics/statistics
+12215,High performance computing
+12219,Medicine
+12219,Mathematics/statistics
+12223,Physics
+12223,Computer science/electrical engineering
+12226,Humanities
+12229,"Planetary sciences (geology, climatology, oceanography, etc.)"
+12229,Chemistry
+12232,"Genetics, genomics, bioinformatics"
+12235,"Organismal biology (ecology, botany, zoology, microbiology)"
+12235,"Genetics, genomics, bioinformatics"
+12235,Computer science/electrical engineering
+12236,"Genetics, genomics, bioinformatics"
+12236,High performance computing
+12238,Computer science/electrical engineering
+12246,Computer science/electrical engineering
+12246,Library and information science
+12250,Computer science/electrical engineering
+12250,Library and information science
+12310,Library and information science
+12340,"Planetary sciences (geology, climatology, oceanography, etc.)"
+12340,Library and information science
+12345,"Organismal biology (ecology, botany, zoology, microbiology)"
+12345,Computer science/electrical engineering
+12349,"Organismal biology (ecology, botany, zoology, microbiology)"
+12349,"Genetics, genomics, bioinformatics"
+12349,High performance computing
+12350,"Civil, mechanical, chemical, or nuclear engineering"
+12350,Education
+12353,"Organismal biology (ecology, botany, zoology, microbiology)"
+12354,"Organismal biology (ecology, botany, zoology, microbiology)"
+12354,"Genetics, genomics, bioinformatics"
+12356,Computer science/electrical engineering
+12356,Library and information science
+12356,High performance computing
+12357,"Genetics, genomics, bioinformatics"
+12358,Chemistry
+12358,"Genetics, genomics, bioinformatics"
+12358,Computer science/electrical engineering
+12358,Mathematics/statistics
+12361,"Genetics, genomics, bioinformatics"
+12361,Computer science/electrical engineering
+12361,High performance computing
+12362,"Genetics, genomics, bioinformatics"
+12362,Computer science/electrical engineering
+12362,High performance computing
+12372,Physics
+12372,"Genetics, genomics, bioinformatics"
+12372,Mathematics/statistics
+12372,High performance computing
+12379,Humanities
+12379,Library and information science
+12381,"Organismal biology (ecology, botany, zoology, microbiology)"
+12381,Mathematics/statistics
+12383,"Organismal biology (ecology, botany, zoology, microbiology)"
+12384,Social sciences
+12387,Library and information science
+12388,"Genetics, genomics, bioinformatics"
+12389,Physics
+12389,Computer science/electrical engineering
+12389,Mathematics/statistics
+12389,High performance computing
+12390,Chemistry
+12390,"Organismal biology (ecology, botany, zoology, microbiology)"
+12390,"Civil, mechanical, chemical, or nuclear engineering"
+12391,Social sciences
+12391,Humanities
+12391,Education
+12391,Mathematics/statistics
+12392,"Organismal biology (ecology, botany, zoology, microbiology)"
+12392,"Genetics, genomics, bioinformatics"
+12392,Mathematics/statistics
+12392,High performance computing
+12396,Chemistry
+12396,"Genetics, genomics, bioinformatics"
+12396,Medicine
+12396,Mathematics/statistics
+12402,Computer science/electrical engineering
+12402,Social sciences
+12402,Library and information science
+12402,Mathematics/statistics
+12511,Social sciences
+12511,Humanities
+12511,Library and information science
+12518,"Genetics, genomics, bioinformatics"
+12527,"Genetics, genomics, bioinformatics"
+12527,Computer science/electrical engineering
+12527,Mathematics/statistics
+12530,"Organismal biology (ecology, botany, zoology, microbiology)"
+12530,"Genetics, genomics, bioinformatics"
+12530,High performance computing
+12535,"Organismal biology (ecology, botany, zoology, microbiology)"
+12535,Mathematics/statistics
+12550,Computer science/electrical engineering
+12559,Humanities
+12559,Library and information science
+12561,Chemistry
+12561,Library and information science
+12561,Education
+12562,Library and information science
+12563,Chemistry
+12574,Computer science/electrical engineering
+12653,"Organismal biology (ecology, botany, zoology, microbiology)"
+12653,Education
+12657,"Organismal biology (ecology, botany, zoology, microbiology)"
+12657,Mathematics/statistics
+12759,"Organismal biology (ecology, botany, zoology, microbiology)"
+12759,"Genetics, genomics, bioinformatics"
+12759,Library and information science
+12803,Psychology/neuroscience
+12803,Library and information science
+12839,"Organismal biology (ecology, botany, zoology, microbiology)"
+12839,"Genetics, genomics, bioinformatics"
+12839,Mathematics/statistics
+12844,Humanities
+12844,Library and information science
+12844,Education
+12855,"Genetics, genomics, bioinformatics"
+12857,"Genetics, genomics, bioinformatics"
+12857,Computer science/electrical engineering
+12857,Mathematics/statistics
+12862,Physics
+12865,Physics
+12865,"Civil, mechanical, chemical, or nuclear engineering"
+12867,Computer science/electrical engineering
+12878,Social sciences
+12878,Humanities
+12878,Library and information science
+12878,Education
+12881,"Organismal biology (ecology, botany, zoology, microbiology)"
+12881,"Genetics, genomics, bioinformatics"
+12881,Mathematics/statistics
+12884,Mathematics/statistics
+12885,"Planetary sciences (geology, climatology, oceanography, etc.)"
+12885,"Organismal biology (ecology, botany, zoology, microbiology)"
+12885,Mathematics/statistics
+12887,Computer science/electrical engineering
+12892,"Genetics, genomics, bioinformatics"
+12892,Computer science/electrical engineering
+12892,Mathematics/statistics
+13012,"Genetics, genomics, bioinformatics"
+13022,"Genetics, genomics, bioinformatics"
+13022,Mathematics/statistics
+13060,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13060,"Civil, mechanical, chemical, or nuclear engineering"
+13067,Computer science/electrical engineering
+13075,"Genetics, genomics, bioinformatics"
+13075,Mathematics/statistics
+13086,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13102,"Organismal biology (ecology, botany, zoology, microbiology)"
+13102,Computer science/electrical engineering
+13102,Psychology/neuroscience
+13102,Mathematics/statistics
+13104,Computer science/electrical engineering
+13104,Social sciences
+13104,Humanities
+13104,High performance computing
+13108,Physics
+13108,Computer science/electrical engineering
+13108,Mathematics/statistics
+13108,High performance computing
+13117,Humanities
+13117,Library and information science
+13117,Education
+13120,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13124,High performance computing
+13126,Computer science/electrical engineering
+13126,High performance computing
+13129,Physics
+13129,Chemistry
+13129,Computer science/electrical engineering
+13129,Mathematics/statistics
+13129,High performance computing
+13134,Computer science/electrical engineering
+13134,High performance computing
+13137,Computer science/electrical engineering
+13139,Computer science/electrical engineering
+13139,High performance computing
+13142,"Organismal biology (ecology, botany, zoology, microbiology)"
+13142,Social sciences
+13149,"Organismal biology (ecology, botany, zoology, microbiology)"
+13150,Social sciences
+13150,Psychology/neuroscience
+13150,Humanities
+13150,Library and information science
+13152,Computer science/electrical engineering
+13152,High performance computing
+13167,Computer science/electrical engineering
+13167,Social sciences
+13204,Computer science/electrical engineering
+13213,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13213,Social sciences
+13216,"Genetics, genomics, bioinformatics"
+13216,Computer science/electrical engineering
+13216,High performance computing
+13220,"Genetics, genomics, bioinformatics"
+13220,Computer science/electrical engineering
+13237,"Genetics, genomics, bioinformatics"
+13242,"Genetics, genomics, bioinformatics"
+13271,Psychology/neuroscience
+13271,Humanities
+13272,Social sciences
+13272,Humanities
+13275,"Genetics, genomics, bioinformatics"
+13275,Computer science/electrical engineering
+13275,High performance computing
+13339,"Organismal biology (ecology, botany, zoology, microbiology)"
+13464,"Genetics, genomics, bioinformatics"
+13466,"Organismal biology (ecology, botany, zoology, microbiology)"
+13466,"Genetics, genomics, bioinformatics"
+13467,"Civil, mechanical, chemical, or nuclear engineering"
+13467,Computer science/electrical engineering
+13467,Mathematics/statistics
+13468,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13468,High performance computing
+13469,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13469,Computer science/electrical engineering
+13475,Economics/business
+13475,High performance computing
+13476,Computer science/electrical engineering
+13479,Physics
+13479,Computer science/electrical engineering
+13479,High performance computing
+13482,Library and information science
+13483,"Genetics, genomics, bioinformatics"
+13494,Library and information science
+13495,Library and information science
+13496,Computer science/electrical engineering
+13496,Library and information science
+13496,Education
+13498,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13498,Library and information science
+13499,Humanities
+13499,Library and information science
+13500,Library and information science
+13503,Humanities
+13503,Library and information science
+13504,Humanities
+13504,Library and information science
+13508,"Civil, mechanical, chemical, or nuclear engineering"
+13508,Library and information science
+13509,Library and information science
+13511,Library and information science
+13511,Education
+13514,Social sciences
+13514,Humanities
+13514,Library and information science
+13516,Humanities
+13516,Library and information science
+13518,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13518,"Civil, mechanical, chemical, or nuclear engineering"
+13519,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13519,Physics
+13519,Computer science/electrical engineering
+13519,High performance computing
+13531,"Genetics, genomics, bioinformatics"
+13531,High performance computing
+13533,"Genetics, genomics, bioinformatics"
+13543,"Genetics, genomics, bioinformatics"
+13543,Computer science/electrical engineering
+13543,Education
+13543,High performance computing
+13555,Computer science/electrical engineering
+13555,Education
+13560,"Organismal biology (ecology, botany, zoology, microbiology)"
+13561,Computer science/electrical engineering
+13561,Library and information science
+13561,Education
+13563,Computer science/electrical engineering
+13564,Physics
+13564,Computer science/electrical engineering
+13564,Education
+13564,Mathematics/statistics
+13568,Computer science/electrical engineering
+13568,Psychology/neuroscience
+13568,Mathematics/statistics
+13569,Physics
+13569,Computer science/electrical engineering
+13572,"Genetics, genomics, bioinformatics"
+13572,Library and information science
+13572,Mathematics/statistics
+13574,Computer science/electrical engineering
+13577,Library and information science
+13578,"Civil, mechanical, chemical, or nuclear engineering"
+13584,Computer science/electrical engineering
+13584,Psychology/neuroscience
+13586,Social sciences
+13588,"Organismal biology (ecology, botany, zoology, microbiology)"
+13599,"Organismal biology (ecology, botany, zoology, microbiology)"
+13601,Library and information science
+13602,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13602,Chemistry
+13611,"Organismal biology (ecology, botany, zoology, microbiology)"
+13611,"Genetics, genomics, bioinformatics"
+13614,Computer science/electrical engineering
+13614,Mathematics/statistics
+13615,Humanities
+13615,Library and information science
+13615,Education
+13616,Social sciences
+13616,Humanities
+13616,Education
+13617,Computer science/electrical engineering
+13617,Humanities
+13617,Education
+13621,"Genetics, genomics, bioinformatics"
+13627,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13627,Mathematics/statistics
+13630,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13630,"Civil, mechanical, chemical, or nuclear engineering"
+13634,Education
+13635,Physics
+13635,Computer science/electrical engineering
+13635,Education
+13635,Mathematics/statistics
+13636,Computer science/electrical engineering
+13636,High performance computing
+13638,"Organismal biology (ecology, botany, zoology, microbiology)"
+13639,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13639,Economics/business
+13644,Economics/business
+13644,Mathematics/statistics
+13645,Computer science/electrical engineering
+13645,Library and information science
+13645,Mathematics/statistics
+13647,Physics
+13650,Social sciences
+13650,Psychology/neuroscience
+13650,Humanities
+13650,Education
+13652,Mathematics/statistics
+13653,Economics/business
+13655,Computer science/electrical engineering
+13655,High performance computing
+13658,"Genetics, genomics, bioinformatics"
+13658,Mathematics/statistics
+13659,Economics/business
+13660,"Genetics, genomics, bioinformatics"
+13660,Computer science/electrical engineering
+13661,Space sciences
+13662,"Genetics, genomics, bioinformatics"
+13663,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13663,"Organismal biology (ecology, botany, zoology, microbiology)"
+13663,Mathematics/statistics
+13664,Computer science/electrical engineering
+13675,Library and information science
+13676,Social sciences
+13676,Humanities
+13677,Computer science/electrical engineering
+13677,Humanities
+13678,Computer science/electrical engineering
+13678,Humanities
+13679,Humanities
+13679,Library and information science
+13680,Computer science/electrical engineering
+13681,Computer science/electrical engineering
+13681,Library and information science
+13682,Computer science/electrical engineering
+13682,Library and information science
+13683,Economics/business
+13683,Social sciences
+13683,Mathematics/statistics
+13684,"Organismal biology (ecology, botany, zoology, microbiology)"
+13684,"Genetics, genomics, bioinformatics"
+13685,"Organismal biology (ecology, botany, zoology, microbiology)"
+13689,Space sciences
+13689,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13690,"Civil, mechanical, chemical, or nuclear engineering"
+13690,Economics/business
+13690,Social sciences
+13690,Mathematics/statistics
+13691,Computer science/electrical engineering
+13691,Social sciences
+13691,Library and information science
+13692,"Genetics, genomics, bioinformatics"
+13693,Computer science/electrical engineering
+13759,"Organismal biology (ecology, botany, zoology, microbiology)"
+13759,"Genetics, genomics, bioinformatics"
+13759,Mathematics/statistics
+13797,"Genetics, genomics, bioinformatics"
+13797,Library and information science
+13841,Physics
+13841,"Genetics, genomics, bioinformatics"
+13917,"Organismal biology (ecology, botany, zoology, microbiology)"
+13917,"Genetics, genomics, bioinformatics"
+13917,Mathematics/statistics
+13944,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13944,"Organismal biology (ecology, botany, zoology, microbiology)"
+13945,Mathematics/statistics
+13946,Chemistry
+13949,"Organismal biology (ecology, botany, zoology, microbiology)"
+13954,"Genetics, genomics, bioinformatics"
+13954,"Civil, mechanical, chemical, or nuclear engineering"
+13955,Space sciences
+13955,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13955,Physics
+13955,"Genetics, genomics, bioinformatics"
+13955,Computer science/electrical engineering
+13955,Economics/business
+13955,Social sciences
+13955,Education
+13955,Mathematics/statistics
+13955,High performance computing
+13956,Library and information science
+13959,Social sciences
+13959,Education
+13959,Mathematics/statistics
+13963,"Planetary sciences (geology, climatology, oceanography, etc.)"
+13964,"Genetics, genomics, bioinformatics"
+13964,Computer science/electrical engineering
+13964,Mathematics/statistics
+13966,Computer science/electrical engineering
+13966,High performance computing
+13967,Physics
+13967,Computer science/electrical engineering
+13967,Mathematics/statistics
+13967,High performance computing
+13970,Space sciences
+13970,Physics
+13972,Psychology/neuroscience
+13974,Physics
+13974,Mathematics/statistics
+13974,High performance computing
+13975,Psychology/neuroscience
+13976,Social sciences
+13976,Humanities
+13977,Social sciences
+13977,Humanities
+13978,Mathematics/statistics
+13982,Space sciences
+13982,Physics
+13982,Mathematics/statistics
+13991,Space sciences
+13991,Physics
+13991,Computer science/electrical engineering
+13991,Mathematics/statistics
+13992,Space sciences
+13992,Physics
+13992,"Civil, mechanical, chemical, or nuclear engineering"
+13992,Computer science/electrical engineering
+13992,Economics/business
+13992,Education
+13992,Mathematics/statistics
+13992,High performance computing
+13993,Computer science/electrical engineering
+13994,Physics
+13994,High performance computing
+14008,"Organismal biology (ecology, botany, zoology, microbiology)"
+14008,"Genetics, genomics, bioinformatics"
+14009,"Genetics, genomics, bioinformatics"
+14010,"Genetics, genomics, bioinformatics"
+14013,"Organismal biology (ecology, botany, zoology, microbiology)"
+14293,"Genetics, genomics, bioinformatics"
+14293,Library and information science
+14293,Mathematics/statistics
+14293,High performance computing
+14294,Computer science/electrical engineering
+14294,Education
+14294,Mathematics/statistics
+14295,Economics/business
+14295,Social sciences
+14296,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14296,"Organismal biology (ecology, botany, zoology, microbiology)"
+14296,Medicine
+14296,Library and information science
+14297,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14297,"Organismal biology (ecology, botany, zoology, microbiology)"
+14297,"Genetics, genomics, bioinformatics"
+14299,"Genetics, genomics, bioinformatics"
+14299,Computer science/electrical engineering
+14300,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14300,"Organismal biology (ecology, botany, zoology, microbiology)"
+14300,"Genetics, genomics, bioinformatics"
+14301,Psychology/neuroscience
+14301,Mathematics/statistics
+14302,Mathematics/statistics
+14304,Computer science/electrical engineering
+14304,Social sciences
+14307,Computer science/electrical engineering
+14312,"Genetics, genomics, bioinformatics"
+14313,"Genetics, genomics, bioinformatics"
+14313,Computer science/electrical engineering
+14315,"Genetics, genomics, bioinformatics"
+14316,"Organismal biology (ecology, botany, zoology, microbiology)"
+14316,"Genetics, genomics, bioinformatics"
+14317,"Genetics, genomics, bioinformatics"
+14318,"Genetics, genomics, bioinformatics"
+14319,"Genetics, genomics, bioinformatics"
+14321,"Organismal biology (ecology, botany, zoology, microbiology)"
+14321,"Genetics, genomics, bioinformatics"
+14322,"Genetics, genomics, bioinformatics"
+14322,High performance computing
+14323,"Genetics, genomics, bioinformatics"
+14323,High performance computing
+14331,Physics
+14331,"Genetics, genomics, bioinformatics"
+14331,High performance computing
+14339,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14341,"Organismal biology (ecology, botany, zoology, microbiology)"
+14341,Social sciences
+14341,Education
+14341,Mathematics/statistics
+14343,"Organismal biology (ecology, botany, zoology, microbiology)"
+14343,Computer science/electrical engineering
+14346,Social sciences
+14346,Psychology/neuroscience
+14347,Chemistry
+14347,"Organismal biology (ecology, botany, zoology, microbiology)"
+14347,"Genetics, genomics, bioinformatics"
+14353,Physics
+14353,Computer science/electrical engineering
+14353,High performance computing
+14364,"Organismal biology (ecology, botany, zoology, microbiology)"
+14364,"Genetics, genomics, bioinformatics"
+14365,"Organismal biology (ecology, botany, zoology, microbiology)"
+14365,"Genetics, genomics, bioinformatics"
+14366,"Organismal biology (ecology, botany, zoology, microbiology)"
+14366,"Genetics, genomics, bioinformatics"
+14367,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14371,"Organismal biology (ecology, botany, zoology, microbiology)"
+14371,"Genetics, genomics, bioinformatics"
+14372,"Organismal biology (ecology, botany, zoology, microbiology)"
+14372,"Genetics, genomics, bioinformatics"
+14372,Mathematics/statistics
+14374,Computer science/electrical engineering
+14374,Psychology/neuroscience
+14374,Mathematics/statistics
+14380,"Organismal biology (ecology, botany, zoology, microbiology)"
+14385,"Genetics, genomics, bioinformatics"
+14386,"Genetics, genomics, bioinformatics"
+14387,"Genetics, genomics, bioinformatics"
+14387,Computer science/electrical engineering
+14387,Mathematics/statistics
+14388,"Genetics, genomics, bioinformatics"
+14390,"Genetics, genomics, bioinformatics"
+14390,Computer science/electrical engineering
+14391,"Genetics, genomics, bioinformatics"
+14391,Mathematics/statistics
+14394,Computer science/electrical engineering
+14394,Education
+14394,Mathematics/statistics
+14396,"Organismal biology (ecology, botany, zoology, microbiology)"
+14396,"Genetics, genomics, bioinformatics"
+14398,"Genetics, genomics, bioinformatics"
+14400,Physics
+14400,"Genetics, genomics, bioinformatics"
+14400,Computer science/electrical engineering
+14400,Mathematics/statistics
+14400,High performance computing
+14401,Chemistry
+14401,"Genetics, genomics, bioinformatics"
+14402,"Organismal biology (ecology, botany, zoology, microbiology)"
+14402,Library and information science
+14403,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14403,Economics/business
+14404,Library and information science
+14406,Library and information science
+14408,Computer science/electrical engineering
+14408,High performance computing
+14409,Computer science/electrical engineering
+14412,"Organismal biology (ecology, botany, zoology, microbiology)"
+14412,"Genetics, genomics, bioinformatics"
+14413,"Genetics, genomics, bioinformatics"
+14413,Computer science/electrical engineering
+14413,High performance computing
+14414,Computer science/electrical engineering
+14417,"Genetics, genomics, bioinformatics"
+14417,Computer science/electrical engineering
+14419,"Organismal biology (ecology, botany, zoology, microbiology)"
+14419,"Genetics, genomics, bioinformatics"
+14421,Mathematics/statistics
+14484,"Organismal biology (ecology, botany, zoology, microbiology)"
+14484,Mathematics/statistics
+14609,"Genetics, genomics, bioinformatics"
+14609,Mathematics/statistics
+14614,Space sciences
+14614,Physics
+14615,Chemistry
+14615,High performance computing
+14617,"Genetics, genomics, bioinformatics"
+14617,Mathematics/statistics
+14617,High performance computing
+14618,Humanities
+14618,Library and information science
+14618,Education
+14619,"Genetics, genomics, bioinformatics"
+14619,Medicine
+14619,Social sciences
+14619,Humanities
+14619,Education
+14619,Mathematics/statistics
+14620,Physics
+14620,Psychology/neuroscience
+14620,Education
+14623,"Organismal biology (ecology, botany, zoology, microbiology)"
+14623,"Genetics, genomics, bioinformatics"
+14623,Education
+14623,Mathematics/statistics
+14624,"Organismal biology (ecology, botany, zoology, microbiology)"
+14626,"Genetics, genomics, bioinformatics"
+14626,Computer science/electrical engineering
+14626,High performance computing
+14630,"Genetics, genomics, bioinformatics"
+14630,Computer science/electrical engineering
+14630,High performance computing
+14631,Computer science/electrical engineering
+14631,Library and information science
+14631,Education
+14632,"Organismal biology (ecology, botany, zoology, microbiology)"
+14634,Social sciences
+14634,High performance computing
+14636,Mathematics/statistics
+14637,Mathematics/statistics
+14638,"Genetics, genomics, bioinformatics"
+14638,Psychology/neuroscience
+14639,"Civil, mechanical, chemical, or nuclear engineering"
+14644,Computer science/electrical engineering
+14644,High performance computing
+14645,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14646,"Genetics, genomics, bioinformatics"
+14646,Medicine
+14646,Psychology/neuroscience
+14646,Mathematics/statistics
+14646,High performance computing
+14648,Physics
+14648,Chemistry
+14648,Education
+14648,Mathematics/statistics
+14649,"Genetics, genomics, bioinformatics"
+14649,Computer science/electrical engineering
+14650,"Genetics, genomics, bioinformatics"
+14650,Mathematics/statistics
+14651,Computer science/electrical engineering
+14652,"Civil, mechanical, chemical, or nuclear engineering"
+14652,High performance computing
+14665,"Genetics, genomics, bioinformatics"
+14665,High performance computing
+14676,Space sciences
+14676,Physics
+14678,Computer science/electrical engineering
+14678,High performance computing
+14680,"Genetics, genomics, bioinformatics"
+14680,Computer science/electrical engineering
+14680,High performance computing
+14688,Physics
+14688,"Civil, mechanical, chemical, or nuclear engineering"
+14688,Computer science/electrical engineering
+14688,Mathematics/statistics
+14688,High performance computing
+14689,"Civil, mechanical, chemical, or nuclear engineering"
+14690,Computer science/electrical engineering
+14690,Psychology/neuroscience
+14690,Humanities
+14692,Social sciences
+14694,Social sciences
+14694,Humanities
+14696,Computer science/electrical engineering
+14696,High performance computing
+14697,Physics
+14697,Computer science/electrical engineering
+14697,Mathematics/statistics
+14698,Computer science/electrical engineering
+14698,High performance computing
+14699,Economics/business
+14699,Education
+14699,Mathematics/statistics
+14708,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14708,Physics
+14708,High performance computing
+14718,"Organismal biology (ecology, botany, zoology, microbiology)"
+14718,"Genetics, genomics, bioinformatics"
+14718,Computer science/electrical engineering
+14718,Education
+14721,Medicine
+14721,Mathematics/statistics
+14725,"Organismal biology (ecology, botany, zoology, microbiology)"
+14725,Mathematics/statistics
+14726,"Planetary sciences (geology, climatology, oceanography, etc.)"
+14726,Mathematics/statistics
+14734,Space sciences
+14734,Physics
+14734,Humanities
+14735,Library and information science
+14736,Psychology/neuroscience
+14775,"Organismal biology (ecology, botany, zoology, microbiology)"
+14878,"Organismal biology (ecology, botany, zoology, microbiology)"
+14930,Computer science/electrical engineering
+14945,"Civil, mechanical, chemical, or nuclear engineering"
+14945,Mathematics/statistics
+14945,High performance computing
+14946,Physics
+14946,Computer science/electrical engineering
+14946,Mathematics/statistics
+14963,Computer science/electrical engineering
+14963,Mathematics/statistics
+14965,Chemistry
+14965,Computer science/electrical engineering
+14965,High performance computing
+14966,Computer science/electrical engineering
+14968,Education
+14968,Mathematics/statistics
+14971,Physics
+14971,Computer science/electrical engineering
+14971,High performance computing
+14976,Physics
+14976,Humanities
+14976,Mathematics/statistics
+14978,Space sciences
+14978,Physics
+14978,Chemistry
+14978,Education
+14982,Library and information science
+14996,Computer science/electrical engineering
+15001,"Genetics, genomics, bioinformatics"
+15001,Computer science/electrical engineering
+15001,High performance computing
+15002,Computer science/electrical engineering
+15003,Physics
+15003,Computer science/electrical engineering
+15004,"Genetics, genomics, bioinformatics"
+15004,Computer science/electrical engineering
+15005,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15005,"Civil, mechanical, chemical, or nuclear engineering"
+15005,Computer science/electrical engineering
+15006,Physics
+15006,Chemistry
+15006,"Civil, mechanical, chemical, or nuclear engineering"
+15006,Mathematics/statistics
+15006,High performance computing
+15008,Library and information science
+15008,Education
+15010,Library and information science
+15011,"Organismal biology (ecology, botany, zoology, microbiology)"
+15011,"Genetics, genomics, bioinformatics"
+15011,Library and information science
+15011,High performance computing
+15012,Chemistry
+15012,"Genetics, genomics, bioinformatics"
+15012,Medicine
+15012,Mathematics/statistics
+15013,"Genetics, genomics, bioinformatics"
+15016,"Genetics, genomics, bioinformatics"
+15016,High performance computing
+15024,Humanities
+15024,Library and information science
+15025,Computer science/electrical engineering
+15025,Mathematics/statistics
+15029,Humanities
+15029,Education
+15030,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15037,Economics/business
+15037,Education
+15038,Humanities
+15038,Education
+15039,Mathematics/statistics
+15042,"Genetics, genomics, bioinformatics"
+15042,Mathematics/statistics
+15042,High performance computing
+15043,Computer science/electrical engineering
+15043,Mathematics/statistics
+15048,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15048,Physics
+15048,Computer science/electrical engineering
+15048,Mathematics/statistics
+15048,High performance computing
+15049,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15051,Economics/business
+15056,Computer science/electrical engineering
+15056,Education
+15060,"Genetics, genomics, bioinformatics"
+15060,Mathematics/statistics
+15062,Medicine
+15063,Medicine
+15065,Physics
+15065,Chemistry
+15065,"Genetics, genomics, bioinformatics"
+15065,Mathematics/statistics
+15065,High performance computing
+15066,Chemistry
+15066,"Genetics, genomics, bioinformatics"
+15066,Social sciences
+15066,Humanities
+15067,Psychology/neuroscience
+15068,Social sciences
+15068,Psychology/neuroscience
+15068,Education
+15068,Mathematics/statistics
+15069,Computer science/electrical engineering
+15069,High performance computing
+15070,Computer science/electrical engineering
+15070,Library and information science
+15072,"Organismal biology (ecology, botany, zoology, microbiology)"
+15073,"Organismal biology (ecology, botany, zoology, microbiology)"
+15073,"Genetics, genomics, bioinformatics"
+15075,Humanities
+15075,Library and information science
+15076,Mathematics/statistics
+15080,Physics
+15080,High performance computing
+15089,Economics/business
+15089,Social sciences
+15089,Library and information science
+15089,Education
+15089,Mathematics/statistics
+15089,High performance computing
+15096,Humanities
+15103,Space sciences
+15103,Physics
+15103,Mathematics/statistics
+15103,High performance computing
+15111,"Organismal biology (ecology, botany, zoology, microbiology)"
+15126,"Genetics, genomics, bioinformatics"
+15144,Chemistry
+15148,Library and information science
+15153,"Civil, mechanical, chemical, or nuclear engineering"
+15153,Education
+15153,Mathematics/statistics
+15170,Computer science/electrical engineering
+15172,Library and information science
+15260,"Civil, mechanical, chemical, or nuclear engineering"
+15260,Computer science/electrical engineering
+15262,Physics
+15262,Chemistry
+15262,"Civil, mechanical, chemical, or nuclear engineering"
+15262,Computer science/electrical engineering
+15262,Mathematics/statistics
+15262,High performance computing
+15268,Social sciences
+15268,Humanities
+15268,Library and information science
+15268,Education
+15283,Chemistry
+15283,Computer science/electrical engineering
+15283,Library and information science
+15301,"Organismal biology (ecology, botany, zoology, microbiology)"
+15301,"Genetics, genomics, bioinformatics"
+15301,Mathematics/statistics
+15302,"Organismal biology (ecology, botany, zoology, microbiology)"
+15302,"Genetics, genomics, bioinformatics"
+15304,"Organismal biology (ecology, botany, zoology, microbiology)"
+15304,Computer science/electrical engineering
+15304,High performance computing
+15306,"Organismal biology (ecology, botany, zoology, microbiology)"
+15318,Chemistry
+15318,"Organismal biology (ecology, botany, zoology, microbiology)"
+15318,"Genetics, genomics, bioinformatics"
+15318,Computer science/electrical engineering
+15318,Education
+15318,Mathematics/statistics
+15329,"Organismal biology (ecology, botany, zoology, microbiology)"
+15329,"Genetics, genomics, bioinformatics"
+15329,Library and information science
+15345,Physics
+15345,Computer science/electrical engineering
+15345,Mathematics/statistics
+15345,High performance computing
+15466,"Genetics, genomics, bioinformatics"
+15466,Medicine
+15467,Physics
+15467,Chemistry
+15467,Education
+15468,Space sciences
+15468,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15468,Physics
+15468,Mathematics/statistics
+15468,High performance computing
+15469,"Civil, mechanical, chemical, or nuclear engineering"
+15469,Library and information science
+15471,"Genetics, genomics, bioinformatics"
+15597,"Organismal biology (ecology, botany, zoology, microbiology)"
+15597,Mathematics/statistics
+15599,"Civil, mechanical, chemical, or nuclear engineering"
+15599,Mathematics/statistics
+15599,High performance computing
+15603,Space sciences
+15603,Physics
+15609,Physics
+15609,Computer science/electrical engineering
+15609,Library and information science
+15610,Computer science/electrical engineering
+15610,Mathematics/statistics
+15613,Physics
+15613,Mathematics/statistics
+15616,Physics
+15616,High performance computing
+15620,"Genetics, genomics, bioinformatics"
+15620,Computer science/electrical engineering
+15620,High performance computing
+15622,Computer science/electrical engineering
+15622,Library and information science
+15625,Social sciences
+15625,Humanities
+15626,Space sciences
+15626,Social sciences
+15627,"Genetics, genomics, bioinformatics"
+15627,Computer science/electrical engineering
+15627,High performance computing
+15630,"Civil, mechanical, chemical, or nuclear engineering"
+15630,Mathematics/statistics
+15631,"Genetics, genomics, bioinformatics"
+15634,"Organismal biology (ecology, botany, zoology, microbiology)"
+15634,Computer science/electrical engineering
+15634,Library and information science
+15637,Library and information science
+15639,"Organismal biology (ecology, botany, zoology, microbiology)"
+15639,"Genetics, genomics, bioinformatics"
+15639,Library and information science
+15641,"Genetics, genomics, bioinformatics"
+15641,Medicine
+15641,Computer science/electrical engineering
+15641,Social sciences
+15641,Library and information science
+15641,Education
+15642,"Organismal biology (ecology, botany, zoology, microbiology)"
+15642,"Genetics, genomics, bioinformatics"
+15643,"Organismal biology (ecology, botany, zoology, microbiology)"
+15643,"Genetics, genomics, bioinformatics"
+15643,High performance computing
+15644,"Organismal biology (ecology, botany, zoology, microbiology)"
+15644,"Genetics, genomics, bioinformatics"
+15645,"Organismal biology (ecology, botany, zoology, microbiology)"
+15645,Library and information science
+15647,Computer science/electrical engineering
+15647,Mathematics/statistics
+15647,High performance computing
+15709,"Genetics, genomics, bioinformatics"
+15745,Space sciences
+15745,Physics
+15745,Computer science/electrical engineering
+15745,Humanities
+15747,"Genetics, genomics, bioinformatics"
+15747,Education
+15747,High performance computing
+15748,Social sciences
+15748,Humanities
+15748,Library and information science
+15749,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15749,Physics
+15750,"Organismal biology (ecology, botany, zoology, microbiology)"
+15750,Psychology/neuroscience
+15751,"Genetics, genomics, bioinformatics"
+15751,Medicine
+15752,"Organismal biology (ecology, botany, zoology, microbiology)"
+15752,"Genetics, genomics, bioinformatics"
+15753,"Genetics, genomics, bioinformatics"
+15756,"Civil, mechanical, chemical, or nuclear engineering"
+15757,"Civil, mechanical, chemical, or nuclear engineering"
+15757,Computer science/electrical engineering
+15758,Library and information science
+15759,Humanities
+15759,Library and information science
+15759,Education
+15760,Space sciences
+15760,Physics
+15760,Library and information science
+15761,Computer science/electrical engineering
+15789,Computer science/electrical engineering
+15789,Economics/business
+15789,Mathematics/statistics
+15789,High performance computing
+15838,Library and information science
+15843,Computer science/electrical engineering
+15856,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15856,"Organismal biology (ecology, botany, zoology, microbiology)"
+15877,Computer science/electrical engineering
+15881,Computer science/electrical engineering
+15882,"Genetics, genomics, bioinformatics"
+15883,Chemistry
+15883,"Genetics, genomics, bioinformatics"
+15883,Education
+15883,Mathematics/statistics
+15883,High performance computing
+15885,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15885,Library and information science
+15895,Computer science/electrical engineering
+15895,Economics/business
+15899,"Genetics, genomics, bioinformatics"
+15901,Physics
+15902,Computer science/electrical engineering
+15902,High performance computing
+15903,Space sciences
+15903,Physics
+15904,Physics
+15905,Computer science/electrical engineering
+15905,Mathematics/statistics
+15905,High performance computing
+15951,Economics/business
+15951,Mathematics/statistics
+15955,Physics
+15955,Computer science/electrical engineering
+15955,Education
+15955,High performance computing
+15956,Space sciences
+15956,Physics
+15958,Computer science/electrical engineering
+15959,Economics/business
+15959,Social sciences
+15959,Library and information science
+15959,Mathematics/statistics
+15985,"Organismal biology (ecology, botany, zoology, microbiology)"
+15985,"Genetics, genomics, bioinformatics"
+15985,Computer science/electrical engineering
+15985,Mathematics/statistics
+15986,"Genetics, genomics, bioinformatics"
+15988,Library and information science
+15989,"Organismal biology (ecology, botany, zoology, microbiology)"
+15989,"Genetics, genomics, bioinformatics"
+15990,Physics
+15993,"Genetics, genomics, bioinformatics"
+15994,"Genetics, genomics, bioinformatics"
+15995,Economics/business
+15995,Social sciences
+15995,Psychology/neuroscience
+15995,Library and information science
+15996,Space sciences
+15996,Physics
+15996,High performance computing
+15997,Chemistry
+15997,"Genetics, genomics, bioinformatics"
+15997,Computer science/electrical engineering
+15997,Mathematics/statistics
+15997,High performance computing
+15998,Physics
+15999,"Planetary sciences (geology, climatology, oceanography, etc.)"
+15999,Mathematics/statistics
+15999,High performance computing
+16000,"Organismal biology (ecology, botany, zoology, microbiology)"
+16001,Computer science/electrical engineering
+16001,Social sciences
+16001,Library and information science
+16002,Library and information science
+16004,Library and information science
+16005,"Organismal biology (ecology, botany, zoology, microbiology)"
+16005,"Genetics, genomics, bioinformatics"
+16005,Education
+16006,Humanities
+16007,Physics
+16007,High performance computing
+16010,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16010,Computer science/electrical engineering
+16010,Mathematics/statistics
+16010,High performance computing
+16018,Space sciences
+16018,Physics
+16018,Mathematics/statistics
+16020,Economics/business
+16020,Social sciences
+16023,Physics
+16023,Mathematics/statistics
+16023,High performance computing
+16024,Humanities
+16024,Library and information science
+16025,Space sciences
+16025,Physics
+16025,Chemistry
+16025,Mathematics/statistics
+16025,High performance computing
+16026,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16026,Physics
+16027,Library and information science
+16028,"Organismal biology (ecology, botany, zoology, microbiology)"
+16031,Computer science/electrical engineering
+16031,Psychology/neuroscience
+16033,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16033,Physics
+16033,Computer science/electrical engineering
+16033,Mathematics/statistics
+16036,Computer science/electrical engineering
+16036,High performance computing
+16040,"Genetics, genomics, bioinformatics"
+16040,Education
+16042,Space sciences
+16042,"Civil, mechanical, chemical, or nuclear engineering"
+16042,High performance computing
+16043,Mathematics/statistics
+16049,Space sciences
+16049,Computer science/electrical engineering
+16049,Social sciences
+16049,Education
+16050,"Civil, mechanical, chemical, or nuclear engineering"
+16050,High performance computing
+16051,"Genetics, genomics, bioinformatics"
+16051,Computer science/electrical engineering
+16051,Psychology/neuroscience
+16051,Mathematics/statistics
+16051,High performance computing
+16053,"Organismal biology (ecology, botany, zoology, microbiology)"
+16053,"Genetics, genomics, bioinformatics"
+16053,Library and information science
+16054,"Genetics, genomics, bioinformatics"
+16059,Computer science/electrical engineering
+16060,"Genetics, genomics, bioinformatics"
+16060,Psychology/neuroscience
+16060,Mathematics/statistics
+16062,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16062,Physics
+16062,Mathematics/statistics
+16062,High performance computing
+16065,Education
+16065,Mathematics/statistics
+16069,Social sciences
+16069,Humanities
+16069,Library and information science
+16069,Education
+16075,Social sciences
+16090,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16090,"Civil, mechanical, chemical, or nuclear engineering"
+16090,Computer science/electrical engineering
+16090,Mathematics/statistics
+16091,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16094,Mathematics/statistics
+16096,"Genetics, genomics, bioinformatics"
+16097,"Organismal biology (ecology, botany, zoology, microbiology)"
+16099,Chemistry
+16099,Computer science/electrical engineering
+16099,High performance computing
+16101,Computer science/electrical engineering
+16102,"Organismal biology (ecology, botany, zoology, microbiology)"
+16102,"Genetics, genomics, bioinformatics"
+16102,High performance computing
+16103,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16103,Computer science/electrical engineering
+16103,High performance computing
+16104,Chemistry
+16104,High performance computing
+16105,Physics
+16105,Chemistry
+16105,Computer science/electrical engineering
+16105,Mathematics/statistics
+16105,High performance computing
+16115,"Genetics, genomics, bioinformatics"
+16116,Computer science/electrical engineering
+16117,Humanities
+16117,Education
+16118,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16118,"Organismal biology (ecology, botany, zoology, microbiology)"
+16119,"Organismal biology (ecology, botany, zoology, microbiology)"
+16119,"Genetics, genomics, bioinformatics"
+16119,High performance computing
+16120,"Genetics, genomics, bioinformatics"
+16120,Computer science/electrical engineering
+16120,Mathematics/statistics
+16120,High performance computing
+16123,"Genetics, genomics, bioinformatics"
+16124,"Genetics, genomics, bioinformatics"
+16125,Physics
+16125,Chemistry
+16125,Computer science/electrical engineering
+16125,Economics/business
+16125,Education
+16125,Mathematics/statistics
+16125,High performance computing
+16127,Humanities
+16129,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16129,Social sciences
+16129,Humanities
+16129,Library and information science
+16131,Chemistry
+16131,"Genetics, genomics, bioinformatics"
+16136,Social sciences
+16142,"Genetics, genomics, bioinformatics"
+16164,"Organismal biology (ecology, botany, zoology, microbiology)"
+16165,Economics/business
+16165,Mathematics/statistics
+16168,"Organismal biology (ecology, botany, zoology, microbiology)"
+16168,"Genetics, genomics, bioinformatics"
+16171,"Genetics, genomics, bioinformatics"
+16176,Library and information science
+16182,Physics
+16182,Chemistry
+16182,"Genetics, genomics, bioinformatics"
+16182,"Civil, mechanical, chemical, or nuclear engineering"
+16182,High performance computing
+16186,Physics
+16186,Computer science/electrical engineering
+16186,Economics/business
+16186,Social sciences
+16186,Humanities
+16186,Library and information science
+16186,Education
+16186,Mathematics/statistics
+16222,"Genetics, genomics, bioinformatics"
+16228,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16228,Physics
+16228,Chemistry
+16228,"Organismal biology (ecology, botany, zoology, microbiology)"
+16228,"Genetics, genomics, bioinformatics"
+16228,"Civil, mechanical, chemical, or nuclear engineering"
+16228,Computer science/electrical engineering
+16228,Psychology/neuroscience
+16228,Mathematics/statistics
+16228,High performance computing
+16232,"Genetics, genomics, bioinformatics"
+16234,"Genetics, genomics, bioinformatics"
+16236,"Genetics, genomics, bioinformatics"
+16237,"Organismal biology (ecology, botany, zoology, microbiology)"
+16265,Computer science/electrical engineering
+16265,Education
+16265,Mathematics/statistics
+16265,High performance computing
+16266,Physics
+16266,Mathematics/statistics
+16268,"Genetics, genomics, bioinformatics"
+16268,Computer science/electrical engineering
+16270,"Genetics, genomics, bioinformatics"
+16270,Computer science/electrical engineering
+16270,Mathematics/statistics
+16270,High performance computing
+16273,Social sciences
+16274,Computer science/electrical engineering
+16274,Humanities
+16277,Social sciences
+16277,Psychology/neuroscience
+16277,Mathematics/statistics
+16278,Library and information science
+16281,"Organismal biology (ecology, botany, zoology, microbiology)"
+16281,Mathematics/statistics
+16282,Computer science/electrical engineering
+16282,High performance computing
+16286,Education
+16286,Mathematics/statistics
+16287,"Organismal biology (ecology, botany, zoology, microbiology)"
+16287,"Genetics, genomics, bioinformatics"
+16294,Humanities
+16294,Library and information science
+16298,"Organismal biology (ecology, botany, zoology, microbiology)"
+16298,Mathematics/statistics
+16299,"Genetics, genomics, bioinformatics"
+16303,"Genetics, genomics, bioinformatics"
+16303,Mathematics/statistics
+16304,"Organismal biology (ecology, botany, zoology, microbiology)"
+16308,Social sciences
+16309,Computer science/electrical engineering
+16309,Mathematics/statistics
+16309,High performance computing
+16321,Physics
+16321,Computer science/electrical engineering
+16321,High performance computing
+16323,Chemistry
+16323,"Civil, mechanical, chemical, or nuclear engineering"
+16323,High performance computing
+16324,Physics
+16324,High performance computing
+16331,Computer science/electrical engineering
+16334,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16334,"Organismal biology (ecology, botany, zoology, microbiology)"
+16335,"Genetics, genomics, bioinformatics"
+16337,"Organismal biology (ecology, botany, zoology, microbiology)"
+16339,Social sciences
+16342,"Organismal biology (ecology, botany, zoology, microbiology)"
+16347,Psychology/neuroscience
+16349,Physics
+16349,Computer science/electrical engineering
+16349,Mathematics/statistics
+16349,High performance computing
+16355,"Organismal biology (ecology, botany, zoology, microbiology)"
+16355,"Genetics, genomics, bioinformatics"
+16356,"Organismal biology (ecology, botany, zoology, microbiology)"
+16364,"Genetics, genomics, bioinformatics"
+16364,Library and information science
+16368,Humanities
+16368,Library and information science
+16371,Computer science/electrical engineering
+16371,Education
+16371,Mathematics/statistics
+16409,Physics
+16409,"Civil, mechanical, chemical, or nuclear engineering"
+16409,Computer science/electrical engineering
+16409,Education
+16409,Mathematics/statistics
+16410,"Genetics, genomics, bioinformatics"
+16413,Computer science/electrical engineering
+16413,Library and information science
+16413,Education
+16414,"Civil, mechanical, chemical, or nuclear engineering"
+16414,Mathematics/statistics
+16414,High performance computing
+16415,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16415,"Organismal biology (ecology, botany, zoology, microbiology)"
+16415,Mathematics/statistics
+16416,Computer science/electrical engineering
+16416,Mathematics/statistics
+16417,"Organismal biology (ecology, botany, zoology, microbiology)"
+16417,"Genetics, genomics, bioinformatics"
+16418,Library and information science
+16425,Space sciences
+16425,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16425,Physics
+16425,Chemistry
+16425,"Genetics, genomics, bioinformatics"
+16425,Computer science/electrical engineering
+16425,Mathematics/statistics
+16434,Social sciences
+16434,Library and information science
+16434,Education
+16435,Chemistry
+16435,High performance computing
+16439,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16439,Computer science/electrical engineering
+16439,Social sciences
+16439,Library and information science
+16439,Mathematics/statistics
+16439,High performance computing
+16458,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16458,Computer science/electrical engineering
+16458,Mathematics/statistics
+16458,High performance computing
+16459,Computer science/electrical engineering
+16459,High performance computing
+16485,"Genetics, genomics, bioinformatics"
+16485,Mathematics/statistics
+16486,Humanities
+16487,Physics
+16487,Computer science/electrical engineering
+16488,Education
+16488,Mathematics/statistics
+16489,Library and information science
+16490,Economics/business
+16490,Mathematics/statistics
+16506,Humanities
+16506,Education
+16513,Mathematics/statistics
+16513,High performance computing
+16516,"Organismal biology (ecology, botany, zoology, microbiology)"
+16516,Social sciences
+16522,"Genetics, genomics, bioinformatics"
+16524,Computer science/electrical engineering
+16524,Psychology/neuroscience
+16524,Mathematics/statistics
+16525,Space sciences
+16525,Computer science/electrical engineering
+16525,Economics/business
+16525,Library and information science
+16525,Mathematics/statistics
+16525,High performance computing
+16531,"Genetics, genomics, bioinformatics"
+16531,High performance computing
+16533,Medicine
+16533,Computer science/electrical engineering
+16533,High performance computing
+16540,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16540,Mathematics/statistics
+16547,"Genetics, genomics, bioinformatics"
+16547,Medicine
+16547,High performance computing
+16639,Space sciences
+16639,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16641,"Organismal biology (ecology, botany, zoology, microbiology)"
+16641,"Genetics, genomics, bioinformatics"
+16643,Physics
+16643,Computer science/electrical engineering
+16643,Library and information science
+16643,High performance computing
+16645,Humanities
+16654,Computer science/electrical engineering
+16661,Psychology/neuroscience
+16664,Humanities
+16664,Library and information science
+16666,Chemistry
+16666,"Genetics, genomics, bioinformatics"
+16672,Computer science/electrical engineering
+16689,Social sciences
+16691,Mathematics/statistics
+16692,Psychology/neuroscience
+16692,Humanities
+16692,Library and information science
+16694,Education
+16694,Mathematics/statistics
+16696,"Organismal biology (ecology, botany, zoology, microbiology)"
+16696,"Genetics, genomics, bioinformatics"
+16696,Education
+16696,High performance computing
+16697,"Organismal biology (ecology, botany, zoology, microbiology)"
+16697,Mathematics/statistics
+16699,"Genetics, genomics, bioinformatics"
+16701,"Genetics, genomics, bioinformatics"
+16701,Medicine
+16701,Education
+16708,Computer science/electrical engineering
+16715,"Organismal biology (ecology, botany, zoology, microbiology)"
+16722,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16723,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16728,Computer science/electrical engineering
+16728,Mathematics/statistics
+16729,"Genetics, genomics, bioinformatics"
+16729,Computer science/electrical engineering
+16734,Computer science/electrical engineering
+16736,"Genetics, genomics, bioinformatics"
+16757,Mathematics/statistics
+16758,"Organismal biology (ecology, botany, zoology, microbiology)"
+16758,"Genetics, genomics, bioinformatics"
+16758,High performance computing
+16759,"Genetics, genomics, bioinformatics"
+16760,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16760,"Organismal biology (ecology, botany, zoology, microbiology)"
+16760,"Genetics, genomics, bioinformatics"
+16761,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16761,Chemistry
+16761,"Organismal biology (ecology, botany, zoology, microbiology)"
+16763,"Genetics, genomics, bioinformatics"
+16763,Computer science/electrical engineering
+16764,"Organismal biology (ecology, botany, zoology, microbiology)"
+16764,Mathematics/statistics
+16765,"Genetics, genomics, bioinformatics"
+16765,Mathematics/statistics
+16767,Chemistry
+16767,"Genetics, genomics, bioinformatics"
+16767,Mathematics/statistics
+16767,High performance computing
+16768,"Genetics, genomics, bioinformatics"
+16768,High performance computing
+16771,Chemistry
+16771,Computer science/electrical engineering
+16771,High performance computing
+16774,"Genetics, genomics, bioinformatics"
+16775,"Genetics, genomics, bioinformatics"
+16775,Mathematics/statistics
+16776,Computer science/electrical engineering
+16776,Mathematics/statistics
+16777,High performance computing
+16778,"Genetics, genomics, bioinformatics"
+16780,"Genetics, genomics, bioinformatics"
+16782,High performance computing
+16783,Medicine
+16783,Mathematics/statistics
+16784,"Organismal biology (ecology, botany, zoology, microbiology)"
+16784,Education
+16785,Computer science/electrical engineering
+16792,"Genetics, genomics, bioinformatics"
+16792,Mathematics/statistics
+16811,Computer science/electrical engineering
+16811,Library and information science
+16811,Education
+16811,Mathematics/statistics
+16816,Computer science/electrical engineering
+16818,Space sciences
+16818,Computer science/electrical engineering
+16821,Computer science/electrical engineering
+16824,Economics/business
+16838,Chemistry
+16838,Library and information science
+16838,Education
+16840,Computer science/electrical engineering
+16841,Library and information science
+16841,Education
+16844,Psychology/neuroscience
+16846,Psychology/neuroscience
+16848,"Genetics, genomics, bioinformatics"
+16850,"Organismal biology (ecology, botany, zoology, microbiology)"
+16850,"Genetics, genomics, bioinformatics"
+16851,"Genetics, genomics, bioinformatics"
+16852,Physics
+16852,Mathematics/statistics
+16852,High performance computing
+16853,"Organismal biology (ecology, botany, zoology, microbiology)"
+16853,"Genetics, genomics, bioinformatics"
+16853,Education
+16854,"Genetics, genomics, bioinformatics"
+16855,Computer science/electrical engineering
+16855,Library and information science
+16856,"Genetics, genomics, bioinformatics"
+16858,Medicine
+16858,Library and information science
+16863,"Genetics, genomics, bioinformatics"
+16863,High performance computing
+16885,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16885,Computer science/electrical engineering
+16886,Social sciences
+16886,Humanities
+16887,Mathematics/statistics
+16887,High performance computing
+16889,"Civil, mechanical, chemical, or nuclear engineering"
+16889,High performance computing
+16891,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16891,Physics
+16891,"Civil, mechanical, chemical, or nuclear engineering"
+16891,Computer science/electrical engineering
+16891,Mathematics/statistics
+16891,High performance computing
+16892,Economics/business
+16892,Social sciences
+16892,Education
+16892,Mathematics/statistics
+16893,Humanities
+16895,Computer science/electrical engineering
+16895,High performance computing
+16896,Economics/business
+16896,Humanities
+16896,Mathematics/statistics
+16897,Social sciences
+16897,Humanities
+16897,Library and information science
+16901,Computer science/electrical engineering
+16903,"Planetary sciences (geology, climatology, oceanography, etc.)"
+16903,High performance computing
+16905,Space sciences
+16905,Physics
+16905,High performance computing
+16913,"Organismal biology (ecology, botany, zoology, microbiology)"
+16913,"Genetics, genomics, bioinformatics"
+16913,Library and information science
+16913,Education
+16914,Physics
+16914,Chemistry
+16914,Computer science/electrical engineering
+16914,Education
+16914,Mathematics/statistics
+16914,High performance computing
+16920,"Genetics, genomics, bioinformatics"
+16921,Psychology/neuroscience
+16922,"Genetics, genomics, bioinformatics"
+16922,Medicine
+16922,Library and information science
+16923,Library and information science
+16924,Social sciences
+16925,Psychology/neuroscience
+16934,"Organismal biology (ecology, botany, zoology, microbiology)"
+16934,"Genetics, genomics, bioinformatics"
+16934,Computer science/electrical engineering
+16934,Mathematics/statistics
+16934,High performance computing
+16936,Physics
+16936,"Civil, mechanical, chemical, or nuclear engineering"
+16936,Computer science/electrical engineering
+16942,"Genetics, genomics, bioinformatics"
+16942,Education
+16942,Mathematics/statistics
+16944,"Organismal biology (ecology, botany, zoology, microbiology)"
+16944,Library and information science
+16946,Computer science/electrical engineering
+16946,High performance computing
+16948,Humanities
+16948,Library and information science
+16951,Computer science/electrical engineering
+16951,Mathematics/statistics
+16955,"Organismal biology (ecology, botany, zoology, microbiology)"
+16955,"Genetics, genomics, bioinformatics"
+16959,"Organismal biology (ecology, botany, zoology, microbiology)"
+16959,"Genetics, genomics, bioinformatics"
+16959,Computer science/electrical engineering
+16963,Social sciences
+16963,Library and information science
+16964,Library and information science
+16965,Humanities
+16965,Library and information science
+16966,"Organismal biology (ecology, botany, zoology, microbiology)"
+16966,"Genetics, genomics, bioinformatics"
+16967,"Organismal biology (ecology, botany, zoology, microbiology)"
+16967,Library and information science
+16968,Economics/business
+16968,Social sciences
+16968,Library and information science
+16970,Humanities
+16970,Library and information science
+16972,"Organismal biology (ecology, botany, zoology, microbiology)"
+16972,"Genetics, genomics, bioinformatics"
+16973,"Organismal biology (ecology, botany, zoology, microbiology)"
+16973,"Genetics, genomics, bioinformatics"
+16974,Library and information science
+16977,Social sciences
+16977,Education
+16977,Mathematics/statistics
+16989,Humanities
+16989,Library and information science
+16990,"Organismal biology (ecology, botany, zoology, microbiology)"
+16990,Library and information science
+16991,Physics
+16991,"Genetics, genomics, bioinformatics"
+16991,High performance computing
+16992,Mathematics/statistics
+16993,Computer science/electrical engineering
+16994,"Organismal biology (ecology, botany, zoology, microbiology)"
+16994,"Genetics, genomics, bioinformatics"
+16994,Psychology/neuroscience
+16996,"Genetics, genomics, bioinformatics"
+16996,Computer science/electrical engineering
+16998,"Organismal biology (ecology, botany, zoology, microbiology)"
+16998,Mathematics/statistics
+16999,"Organismal biology (ecology, botany, zoology, microbiology)"
+16999,"Genetics, genomics, bioinformatics"
+17001,"Organismal biology (ecology, botany, zoology, microbiology)"
+17001,Library and information science
+17017,Library and information science
+17032,Education
+17032,Mathematics/statistics
+17034,Physics
+17034,High performance computing
+17036,"Organismal biology (ecology, botany, zoology, microbiology)"
+17036,"Genetics, genomics, bioinformatics"
+17037,"Genetics, genomics, bioinformatics"
+17037,Computer science/electrical engineering
+17037,Mathematics/statistics
+17037,High performance computing
+17057,Computer science/electrical engineering
+17057,Education
+17057,Mathematics/statistics
+17057,High performance computing
+17100,"Genetics, genomics, bioinformatics"
+17110,Library and information science
+17140,"Organismal biology (ecology, botany, zoology, microbiology)"
+17140,"Genetics, genomics, bioinformatics"
+17141,"Organismal biology (ecology, botany, zoology, microbiology)"
+17170,Computer science/electrical engineering
+17170,Economics/business
+17171,Computer science/electrical engineering
+17171,Mathematics/statistics
+17171,High performance computing
+17172,Humanities
+17172,Library and information science
+17173,Computer science/electrical engineering
+17173,Humanities
+17173,Library and information science
+17173,Education
+17182,Library and information science
+17183,Social sciences
+17183,Library and information science
+17185,Library and information science
+17187,Chemistry
+17187,Mathematics/statistics
+17188,Computer science/electrical engineering
+17188,High performance computing
+17191,"Genetics, genomics, bioinformatics"
+17191,Computer science/electrical engineering
+17192,"Genetics, genomics, bioinformatics"
+17192,Computer science/electrical engineering
+17192,High performance computing
+17194,Computer science/electrical engineering
+17194,Humanities
+17195,Chemistry
+17195,"Genetics, genomics, bioinformatics"
+17195,Medicine
+17199,Computer science/electrical engineering
+17199,Mathematics/statistics
+17227,Computer science/electrical engineering
+17228,Social sciences
+17228,Library and information science
+17232,Physics
+17232,Chemistry
+17238,"Genetics, genomics, bioinformatics"
+17238,Computer science/electrical engineering
+17238,High performance computing
+17239,"Genetics, genomics, bioinformatics"
+17248,"Organismal biology (ecology, botany, zoology, microbiology)"
+17248,"Genetics, genomics, bioinformatics"
+17248,Psychology/neuroscience
+17251,"Planetary sciences (geology, climatology, oceanography, etc.)"
+17251,"Organismal biology (ecology, botany, zoology, microbiology)"
+17253,Social sciences
+17253,Humanities
+17253,Education
+17254,Computer science/electrical engineering
+17254,Mathematics/statistics
+17256,Economics/business
+17256,Social sciences
+17257,Social sciences
+17257,Humanities
+17259,Humanities
+17259,Library and information science
+17260,Social sciences
+17260,Humanities
+17260,Library and information science
+17265,"Genetics, genomics, bioinformatics"
+17266,Education
+17266,Mathematics/statistics
+17266,High performance computing
+17275,Physics
+17275,Chemistry
+17275,Computer science/electrical engineering
+17275,High performance computing
+17286,Computer science/electrical engineering
+17286,Humanities
+17286,Library and information science
+17309,Library and information science
+17312,"Genetics, genomics, bioinformatics"
+17312,"Civil, mechanical, chemical, or nuclear engineering"
+17312,Education
+17320,Psychology/neuroscience
+17322,"Genetics, genomics, bioinformatics"
+17326,Computer science/electrical engineering
+17326,High performance computing
+17327,"Genetics, genomics, bioinformatics"
+17330,Physics
+17330,Mathematics/statistics
+17332,Physics
+17332,Computer science/electrical engineering
+17332,Mathematics/statistics
+17333,Computer science/electrical engineering
+17334,"Genetics, genomics, bioinformatics"
+17334,Computer science/electrical engineering
+17334,High performance computing
+17338,Physics
+17338,Computer science/electrical engineering
+17338,High performance computing
+17340,"Genetics, genomics, bioinformatics"
+17340,Computer science/electrical engineering
+17340,Mathematics/statistics
+17341,Physics
+17341,High performance computing
+17344,Social sciences
+17345,"Planetary sciences (geology, climatology, oceanography, etc.)"
+17345,High performance computing
+17346,Physics
+17346,Medicine
+17347,Social sciences
+17347,Humanities
+17347,Library and information science
+17348,Mathematics/statistics
+17348,High performance computing
+17350,"Civil, mechanical, chemical, or nuclear engineering"
+17350,High performance computing
+17351,Computer science/electrical engineering
+17351,Economics/business
+17351,Humanities
+17351,Library and information science
+17351,Education
+17351,Mathematics/statistics
+17353,Social sciences
+17353,Humanities
+17353,Library and information science
+17355,Humanities
+17355,Library and information science
+17356,High performance computing
+17357,Computer science/electrical engineering
+17357,Humanities
+17357,Education
+17358,Computer science/electrical engineering
+17358,Education
+17359,Education
+17360,"Planetary sciences (geology, climatology, oceanography, etc.)"
+17360,Social sciences
+17360,Humanities
+17361,"Planetary sciences (geology, climatology, oceanography, etc.)"
+17361,"Organismal biology (ecology, botany, zoology, microbiology)"
+17363,"Genetics, genomics, bioinformatics"
+17366,Social sciences
+17366,Humanities
+17366,Library and information science
+17366,Mathematics/statistics
+17371,Chemistry
+17372,Physics
+17372,"Organismal biology (ecology, botany, zoology, microbiology)"
+17387,Social sciences
+17387,Psychology/neuroscience
+17387,Library and information science
+17387,Mathematics/statistics
+17392,Chemistry
+17392,"Genetics, genomics, bioinformatics"
+17392,Computer science/electrical engineering
+17393,"Planetary sciences (geology, climatology, oceanography, etc.)"
+17393,"Civil, mechanical, chemical, or nuclear engineering"
+17393,Computer science/electrical engineering
+17393,Mathematics/statistics
+17401,"Genetics, genomics, bioinformatics"
+17401,Computer science/electrical engineering
+17404,Physics
+17404,Library and information science
+17404,Mathematics/statistics
+17405,"Genetics, genomics, bioinformatics"
+17405,Computer science/electrical engineering
+17406,Chemistry
+17406,Mathematics/statistics
+17407,"Genetics, genomics, bioinformatics"
+17411,"Organismal biology (ecology, botany, zoology, microbiology)"
+17416,"Genetics, genomics, bioinformatics"
+17417,Library and information science
+17418,Humanities
+17418,Library and information science
+17423,"Organismal biology (ecology, botany, zoology, microbiology)"
+17423,"Genetics, genomics, bioinformatics"
+17424,Library and information science
+17425,Computer science/electrical engineering
+17426,Economics/business
+17426,Social sciences
+17426,Mathematics/statistics
+17427,"Civil, mechanical, chemical, or nuclear engineering"
+17427,Mathematics/statistics
+17427,High performance computing
+17433,"Organismal biology (ecology, botany, zoology, microbiology)"
+17434,"Organismal biology (ecology, botany, zoology, microbiology)"
+17434,"Genetics, genomics, bioinformatics"
+17434,Library and information science
+17437,Social sciences
+17437,Education
+17437,Mathematics/statistics
+17439,"Genetics, genomics, bioinformatics"
+17440,Computer science/electrical engineering
+17445,"Organismal biology (ecology, botany, zoology, microbiology)"
+17445,"Genetics, genomics, bioinformatics"
+17445,High performance computing
+17450,Physics
+17450,Computer science/electrical engineering
+17453,Social sciences
+17453,Humanities
+17453,Library and information science
+17453,Education
+17453,Mathematics/statistics
+17454,"Genetics, genomics, bioinformatics"
+17461,Social sciences
+17461,Psychology/neuroscience
+17461,Library and information science
+17462,"Genetics, genomics, bioinformatics"
+17463,"Genetics, genomics, bioinformatics"
+17465,Mathematics/statistics
+17472,"Organismal biology (ecology, botany, zoology, microbiology)"
+17472,"Genetics, genomics, bioinformatics"
+17482,"Organismal biology (ecology, botany, zoology, microbiology)"
+17486,"Organismal biology (ecology, botany, zoology, microbiology)"
+17486,"Genetics, genomics, bioinformatics"
+17511,"Organismal biology (ecology, botany, zoology, microbiology)"
+17511,"Genetics, genomics, bioinformatics"
+17512,"Organismal biology (ecology, botany, zoology, microbiology)"
+17512,"Genetics, genomics, bioinformatics"
+17513,"Genetics, genomics, bioinformatics"
+17514,Space sciences
+17514,Physics
+17514,Medicine
+17514,Computer science/electrical engineering
+17514,Psychology/neuroscience
+17514,Education
+17514,Mathematics/statistics
+17514,High performance computing
+17521,Social sciences
+17523,"Genetics, genomics, bioinformatics"
+17523,Computer science/electrical engineering
+17523,Mathematics/statistics
+17523,High performance computing
+17531,"Genetics, genomics, bioinformatics"
+17531,Computer science/electrical engineering
+17539,Social sciences
+17539,Humanities
+17539,Library and information science
+17539,Education
+17639,"Genetics, genomics, bioinformatics"
+17644,"Genetics, genomics, bioinformatics"
+17645,"Organismal biology (ecology, botany, zoology, microbiology)"
+17645,"Genetics, genomics, bioinformatics"
+17645,Education
+17645,Mathematics/statistics
+17647,"Planetary sciences (geology, climatology, oceanography, etc.)"
+17647,Computer science/electrical engineering
+17647,Economics/business
+17647,Social sciences
+17647,Education
+17647,Mathematics/statistics
+17650,Humanities
+17650,Library and information science
+17651,"Organismal biology (ecology, botany, zoology, microbiology)"
+17651,Mathematics/statistics
+17652,Computer science/electrical engineering
+17652,Library and information science
+17653,Physics
+17656,"Planetary sciences (geology, climatology, oceanography, etc.)"
+17656,"Civil, mechanical, chemical, or nuclear engineering"
+17657,Chemistry
+17657,"Genetics, genomics, bioinformatics"
+17657,Medicine
+17657,Computer science/electrical engineering
+17657,High performance computing
+17660,"Genetics, genomics, bioinformatics"
+17666,Economics/business
+17666,Social sciences
+17666,Mathematics/statistics
+17669,"Organismal biology (ecology, botany, zoology, microbiology)"
+17669,"Genetics, genomics, bioinformatics"
+17669,High performance computing
+17670,Humanities
+17670,Library and information science
+17673,Library and information science
+17676,Humanities
+17752,"Organismal biology (ecology, botany, zoology, microbiology)"
+17808,Chemistry
+17808,Medicine
+17808,Education
+17808,Mathematics/statistics
+17811,Education
+17811,Mathematics/statistics
+17814,Social sciences
+17814,Mathematics/statistics
+17824,"Genetics, genomics, bioinformatics"
+17824,High performance computing
+17825,Social sciences
+17825,Humanities
+17825,Library and information science
+17825,Education
+17826,Library and information science
+17827,Economics/business
+17827,Social sciences
+17827,Library and information science
+17827,Mathematics/statistics
+17832,Social sciences
+17832,Library and information science
+17832,Education
+17836,Computer science/electrical engineering
+17836,High performance computing
+17840,"Genetics, genomics, bioinformatics"
+17842,Physics
+17842,Psychology/neuroscience
+17843,Library and information science
+17844,Humanities
+17844,Library and information science
+17844,Education
+17892,Computer science/electrical engineering
+17892,Education
+17892,Mathematics/statistics
+17897,"Organismal biology (ecology, botany, zoology, microbiology)"
+17901,Computer science/electrical engineering
+17903,Social sciences
+17904,Library and information science
+17904,Education
+17914,Economics/business
+17914,Psychology/neuroscience
+17914,High performance computing
+17918,Library and information science
+17920,Chemistry
+17934,Social sciences
+17934,Psychology/neuroscience
+17934,Mathematics/statistics
+17940,Space sciences
+17940,Physics
+18005,Computer science/electrical engineering
+18006,Social sciences
+18006,Psychology/neuroscience
+18006,Library and information science
+18009,Physics
+18009,Chemistry
+18009,"Civil, mechanical, chemical, or nuclear engineering"
+18009,Mathematics/statistics
+18010,"Organismal biology (ecology, botany, zoology, microbiology)"
+18010,"Genetics, genomics, bioinformatics"
+18011,"Planetary sciences (geology, climatology, oceanography, etc.)"
+18011,Physics
+18011,Mathematics/statistics
+18012,Physics
+18012,"Civil, mechanical, chemical, or nuclear engineering"
+18012,Education
+18012,High performance computing
+18013,"Genetics, genomics, bioinformatics"
+18013,Computer science/electrical engineering
+18013,Mathematics/statistics
+18013,High performance computing
+18014,Physics
+18014,Computer science/electrical engineering
+18015,"Planetary sciences (geology, climatology, oceanography, etc.)"
+18017,Humanities
+18017,High performance computing
+18018,Physics
+18018,"Genetics, genomics, bioinformatics"
+18019,Computer science/electrical engineering
+18019,Mathematics/statistics
+18019,High performance computing
+18022,"Genetics, genomics, bioinformatics"
+18045,Library and information science
+18046,"Organismal biology (ecology, botany, zoology, microbiology)"
+18046,"Genetics, genomics, bioinformatics"
+18046,High performance computing
+18047,Humanities
+18048,Computer science/electrical engineering
+18048,Library and information science
+18051,Computer science/electrical engineering
+18052,"Planetary sciences (geology, climatology, oceanography, etc.)"
+18052,Computer science/electrical engineering
+18060,Physics
+18060,Education
+18060,High performance computing
+18068,"Organismal biology (ecology, botany, zoology, microbiology)"
+18074,Space sciences
+18074,"Civil, mechanical, chemical, or nuclear engineering"
+18074,Computer science/electrical engineering
+18074,Library and information science
+18112,"Planetary sciences (geology, climatology, oceanography, etc.)"
+18112,"Organismal biology (ecology, botany, zoology, microbiology)"
+18112,"Genetics, genomics, bioinformatics"
+18112,Mathematics/statistics
+18145,"Genetics, genomics, bioinformatics"
+18145,High performance computing
+18167,"Organismal biology (ecology, botany, zoology, microbiology)"
+18167,"Civil, mechanical, chemical, or nuclear engineering"
+18167,Computer science/electrical engineering
+18169,"Organismal biology (ecology, botany, zoology, microbiology)"
+18169,Computer science/electrical engineering
+18169,Library and information science
+18169,Mathematics/statistics
+18171,"Organismal biology (ecology, botany, zoology, microbiology)"
+18171,"Genetics, genomics, bioinformatics"
+18174,Medicine
+18322,Library and information science
+18323,"Organismal biology (ecology, botany, zoology, microbiology)"
+18323,"Genetics, genomics, bioinformatics"
+18324,"Organismal biology (ecology, botany, zoology, microbiology)"
+18324,"Genetics, genomics, bioinformatics"
+18326,"Organismal biology (ecology, botany, zoology, microbiology)"
+18328,"Planetary sciences (geology, climatology, oceanography, etc.)"
+18328,"Organismal biology (ecology, botany, zoology, microbiology)"
+18331,"Organismal biology (ecology, botany, zoology, microbiology)"
+18331,Mathematics/statistics
+18333,Library and information science
+18335,Library and information science
+18361,Physics
+18362,Computer science/electrical engineering
+18362,Economics/business
+18362,Social sciences
+18362,Humanities
+18362,Library and information science
+18362,High performance computing
+18427,Social sciences
+18427,Psychology/neuroscience
+18427,Mathematics/statistics
+18428,Library and information science
+18429,Space sciences
+18429,Computer science/electrical engineering
+18429,Economics/business
+18429,Mathematics/statistics
+18469,Computer science/electrical engineering
+18469,Library and information science
+18488,Library and information science
+18489,Library and information science
+18490,Computer science/electrical engineering
+18490,Education
+18493,"Civil, mechanical, chemical, or nuclear engineering"
+18498,Social sciences
+18498,Humanities
+18498,Library and information science
+18509,Computer science/electrical engineering
+18509,High performance computing
+18550,Physics
+18550,Computer science/electrical engineering
+18551,Mathematics/statistics
+18553,Library and information science
+18554,Mathematics/statistics
+18556,"Genetics, genomics, bioinformatics"
+18556,Medicine
+18569,"Genetics, genomics, bioinformatics"
+18569,High performance computing
+18582,Economics/business
+18584,"Planetary sciences (geology, climatology, oceanography, etc.)"
+18584,Physics
+18584,Mathematics/statistics
+18587,Psychology/neuroscience
+18591,Economics/business
+18591,Social sciences
+18591,Library and information science
+18593,"Planetary sciences (geology, climatology, oceanography, etc.)"
+18593,"Organismal biology (ecology, botany, zoology, microbiology)"
+18597,"Planetary sciences (geology, climatology, oceanography, etc.)"
+18597,Library and information science
+18628,"Organismal biology (ecology, botany, zoology, microbiology)"
+18628,"Genetics, genomics, bioinformatics"
+18633,Education
+18644,Physics
+18644,Mathematics/statistics
+18644,High performance computing
+19166,"Genetics, genomics, bioinformatics"
+19168,"Planetary sciences (geology, climatology, oceanography, etc.)"
+19168,Chemistry
+19168,Humanities
+19179,"Organismal biology (ecology, botany, zoology, microbiology)"
+19179,"Genetics, genomics, bioinformatics"
+19179,Computer science/electrical engineering
+19179,High performance computing
+19183,Economics/business
+19183,Social sciences
+19230,Mathematics/statistics
+19232,Computer science/electrical engineering
+19232,Mathematics/statistics
+19253,"Organismal biology (ecology, botany, zoology, microbiology)"
+19261,Humanities
+19261,Library and information science
+19270,"Organismal biology (ecology, botany, zoology, microbiology)"
+19270,"Genetics, genomics, bioinformatics"
+19271,Chemistry
+19274,Computer science/electrical engineering
+19274,Humanities
+19274,Mathematics/statistics
+19281,"Genetics, genomics, bioinformatics"
+19282,High performance computing
+19284,"Genetics, genomics, bioinformatics"
+19284,Computer science/electrical engineering
+19284,Humanities
+19284,Education
+19284,Mathematics/statistics
+19284,High performance computing
+19299,"Genetics, genomics, bioinformatics"
+19299,Computer science/electrical engineering
+19299,Mathematics/statistics
+19299,High performance computing
+19300,"Genetics, genomics, bioinformatics"
+19300,Education
+19300,High performance computing
