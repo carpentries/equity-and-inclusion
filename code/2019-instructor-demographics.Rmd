@@ -1,5 +1,5 @@
 ---
-title: "2019-instructor-demographics"
+title: "2019 Instructor Demographics"
 output: html_document
 ---
 
@@ -10,13 +10,13 @@ library(knitr)
 ```
 
 
-```{r}
+```{r include=FALSE}
 by_gender_country <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/data/instructor-demographics-gender-country_2019_06_17.csv")
 
 by_domain <- readr::read_csv("https://raw.githubusercontent.com/carpentries/equity-and-inclusion/master/data/instructor-demographics-domain_2019_06_17.csv")
 ```
 
-```{r}
+```{r include=FALSE}
 # Function that makes a table of counts and percentages
 # question_n is set by default to the number of respondents in the survey. This value may have to be set by question.
 question_n <- nrow(by_gender_country)
@@ -55,7 +55,8 @@ sum(idx)
 }
 ```
 
-```{r instructors-by-country}
+## Certified Instructors by Country
+```{r}
 ## Tally Certified Instructors by Country
 
 instructors_by_country <- by_gender_country %>%
@@ -68,11 +69,14 @@ get_instructors_by_country_percent <- function(country_var, .data = instructors_
     extract_percentage(.data, .var = country, .value = country_var)
 }
 
-
-head(instructors_by_country)
+instructors_by_country
 ```
 
-```{r instructors-by-gender}
+## Certified Instructors by Gender*
+
+We recognize that our practices for collecting inclusive gender data for our instructors is an area of improvement. Please be patient with us as we are making plans to improve our data collection practices.
+
+```{r}
 ## Tally Certified Instructors by Gender
 
 instructors_by_gender <- by_gender_country %>%
@@ -81,10 +85,33 @@ instructors_by_gender <- by_gender_country %>%
     mutate(percent = round(100 * (n/sum(n)), 1)) %>% # add the % col
     filter(!is.na(gender))
 
-get_instructors_by_gender_percent <- function(country_var, .data = instructors_by_gender) {
-    extract_percentage(.data, .var = country, .value = country_var)
+get_instructors_by_gender_percent <- function(gender_var, .data = instructors_by_gender) {
+    extract_percentage(.data, .var = gender, .value = gender_var)
 }
 
 
-head(instructors_by_gender)
+instructors_by_gender
 ```
+
+
+
+## Certified Instructors by Domain
+
+Domain may include multiple rows for each badged Instructor. Instructors who have more than one domain of expertise are listed one time for each domain. The person_id variable can be used to get a count of total number of Instructors represented, though this will sum to more than 100%.
+
+```{r}
+## Tally Certified Instructors by Domain
+
+instructors_by_domain <- by_domain %>%
+    group_by(domain) %>%
+    tally(sort = TRUE) %>%
+    mutate(percent = round(100 * (n/sum(n)), 1)) %>% # add the % col
+    filter(!is.na(domain))
+
+get_instructors_by_domain_percent <- function(domain_var, .data = instructors_by_domain) {
+    extract_percentage(.data, .var = domain, .value = domain_var)
+}
+
+instructors_by_domain
+```
+
